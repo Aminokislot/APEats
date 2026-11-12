@@ -11,6 +11,8 @@ The journey: budget → up to three options → understandable explanations → 
 APEats is an **independent student prototype** of a feature we propose for APSpace. It is not an official APU or
 APSpace service and has no connection to APSpace.
 
+**Live demo:** <https://apeats.onrender.com> (free hosting: the first visit after a pause can take up to a minute to load).
+
 ## Run it
 
 Node.js 22 or later. From this folder:
