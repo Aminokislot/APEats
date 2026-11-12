@@ -1,0 +1,26 @@
+{
+  "name": "apeats",
+  "version": "0.1.0",
+  "description": "Find my lunch for new and international APU students: budget in, checked lunch sets out. Independent prototype, not an official APSpace service.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test",
+    "check": "node --check server.js && node --check public/app.js && node --check lib/lunch.js && node --check lib/lunch-ai.js && node --check lib/recommend.js && node --check lib/constraints.js && node --check lib/lunch-context.js && node --check public/shared/journey.js && node --check tools/import-menu.js && node tools/import-menu.js --no-ai --check",
+    "import": "node tools/import-menu.js",
+    "import:offline": "node tools/import-menu.js --no-ai",
+    "menu:check": "node tools/import-menu.js --no-ai --check",
+    "menu:rollback": "node tools/menu-rollback.js",
+    "photos": "node tools/fetch-photos.js",
+    "menu": "node tools/import-menu.js && node tools/fetch-photos.js",
+    "prepare:enterprise": "node tools/prepare-enterprise.js",
+    "doctor": "node tools/doctor.js"
+  },
+  "dependencies": {
+    "google-auth-library": "^11.3.3"
+  }
+}

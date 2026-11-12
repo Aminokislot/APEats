@@ -1,0 +1,20 @@
+{
+  "_note": "Campus-wide facts from the team. Edit and re-run `npm run import`.",
+  "allHalal": true,
+  "halalNote": "All food outlets listed in APEats serve halal food (checked in person by the APEats team).",
+  "_hideItemsWithoutPhoto": "true hides items without a photo from the app and the AI. Default false: they stay visible with a placeholder.",
+  "hideItemsWithoutPhoto": false,
+  "cuisineNames": {
+    "Lets Kopitian": "Kopitiam (Malay)",
+    "Western": "Western",
+    "Shawarma": "Arabic"
+  },
+  "_brandNames": "Small stall name under a cuisine; null hides it. Cuisines not listed use the name on the menu board.",
+  "brandNames": {
+    "Western": null
+  },
+  "_coverPhotos": "Optional cover photo of a cuisine (a file name in public/photos without .jpg); otherwise one is picked automatically.",
+  "coverPhotos": {
+    "Western": "fish-and-chips"
+  }
+}

@@ -1,0 +1,14 @@
+.env
+.env.*
+credentials*.json
+*service-account*.json
+.git
+node_modules
+*.log
+
+data/votes.json
+data/votes.json.tmp
+tests
+docs
+.claude
+data/backups

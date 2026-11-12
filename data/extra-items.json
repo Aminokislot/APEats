@@ -1,0 +1,27 @@
+{
+  "_note": "Items the team adds by hand (not on the menu photos). Keys are the source cuisine names from data/source. Water price from the team; canned drinks priced around RM2-3 by the team's estimate. Re-run `npm run menu` after editing.",
+  "cuisines": {
+    "Chinese": {
+      "drinks": [
+        {"id":"X_W01","name":"Mineral Water (500 ml)","price_rm":2,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Bottled still mineral water, 500 ml.","photo_title":"Bottled water"},
+        {"id":"X_D01","name":"Coca-Cola (can)","price_rm":2.5,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Chilled canned Coca-Cola.","photo_query":"Coca-Cola can","photo_file":"Coke can (5322328133).jpg"},
+        {"id":"X_D02","name":"Sprite (can)","price_rm":2.5,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Chilled canned lemon-lime soda.","photo_query":"Sprite can","photo_file":"A cup and can of Sprite.jpg"},
+        {"id":"X_D03","name":"Fanta (can)","price_rm":2.5,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Chilled canned fruit-flavoured soda.","photo_query":"Fanta can","photo_file":"Fanta-Orange-Can-330ml 84177 (7116950883).jpg"},
+        {"id":"X_D04","name":"7Up (can)","price_rm":2.5,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Chilled canned lemon-lime soda.","photo_query":"7up can","photo_file":"Can of Seven Up.jpg"},
+        {"id":"X_D05","name":"Fuze Tea Lemon (can)","price_rm":2.5,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Chilled canned iced tea with lemon.","photo_query":"Fuze tea","photo_file":"FuzeTea 2019-04-05-1243.jpg"},
+        {"id":"X_D06","name":"Fuze Tea Jasmine (can)","price_rm":2.5,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Chilled canned jasmine iced tea.","photo_query":"Fuze tea","photo_file":"FuzeTea 2019-04-05-1243.jpg"}
+      ]
+    },
+    "Western": {
+      "drinks": [
+        {"id":"X_W01","name":"Mineral Water (500 ml)","price_rm":2,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Bottled still mineral water, 500 ml.","photo_title":"Bottled water"},
+        {"id":"X_D01","name":"Coca-Cola (can)","price_rm":2.5,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Chilled canned Coca-Cola.","photo_query":"Coca-Cola can","photo_file":"Coke can (5322328133).jpg"},
+        {"id":"X_D02","name":"Sprite (can)","price_rm":2.5,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Chilled canned lemon-lime soda.","photo_query":"Sprite can","photo_file":"A cup and can of Sprite.jpg"},
+        {"id":"X_D03","name":"Fanta (can)","price_rm":2.5,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Chilled canned fruit-flavoured soda.","photo_query":"Fanta can","photo_file":"Fanta-Orange-Can-330ml 84177 (7116950883).jpg"},
+        {"id":"X_D04","name":"7Up (can)","price_rm":2.5,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Chilled canned lemon-lime soda.","photo_query":"7up can","photo_file":"Can of Seven Up.jpg"},
+        {"id":"X_D05","name":"Fuze Tea Lemon (can)","price_rm":2.5,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Chilled canned iced tea with lemon.","photo_query":"Fuze tea","photo_file":"FuzeTea 2019-04-05-1243.jpg"},
+        {"id":"X_D06","name":"Fuze Tea Jasmine (can)","price_rm":2.5,"category":"drink","spice_level":0,"vegetarian":true,"description_en":"Chilled canned jasmine iced tea.","photo_query":"Fuze tea","photo_file":"FuzeTea 2019-04-05-1243.jpg"}
+      ]
+    }
+  }
+}

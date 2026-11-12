@@ -1,0 +1,7172 @@
+{
+ "japanese-korean--r1": {
+  "key": "f1944084e7ae",
+  "blurb": "Crispy breaded chicken cutlet over rice with mild, savory Japanese curry sauce.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Japanese curry",
+  "photoQuery": "chicken katsu curry rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--r2": {
+  "key": "949a8330edfe",
+  "blurb": "Fried rice cooked with fragrant garlic, topped with a crispy breaded chicken cutlet.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Tonkatsu",
+  "photoQuery": "chicken katsu garlic fried rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--r3": {
+  "key": "b73290462491",
+  "blurb": "Rice bowl topped with a crispy breaded chicken cutlet, egg, and sweet-savory dashi sauce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Katsudon",
+  "photoQuery": "chicken katsu don",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--r4": {
+  "key": "0c1aa5905527",
+  "blurb": "Rice bowl topped with breaded fried prawns and scrambled egg in a sweet soy dashi sauce.",
+  "spicy": 0,
+  "allergens": [
+   "shellfish",
+   "wheat/gluten",
+   "egg",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Katsudon",
+  "photoQuery": "ebi katsu don",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--b1": {
+  "key": "6c0e06d9236e",
+  "blurb": "Grilled chicken coated in a sweet soy teriyaki glaze, served in a bento meal with rice.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "Teriyaki",
+  "photoQuery": "chicken teriyaki bento",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--b2": {
+  "key": "268ad9831096",
+  "blurb": "Tender smoked duck slices served with rice and savory side dishes in a bento box.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Smoked duck",
+  "photoQuery": "smoked duck bento",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--b3": {
+  "key": "704c456ec4cc",
+  "blurb": "Grilled mackerel fish glazed with sweet soy sauce, served with rice in a Japanese bento.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "Teriyaki",
+  "photoQuery": "saba teriyaki bento",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--b4": {
+  "key": "b08f47ed9482",
+  "blurb": "Pan-seared salmon fillet glazed in sweet teriyaki sauce, served with rice and side dishes.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "Teriyaki",
+  "photoQuery": "salmon teriyaki bento",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--b5": {
+  "key": "98b4fd70b393",
+  "blurb": "Grilled freshwater eel brushed with sweet tare sauce, served over a bed of warm rice.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "Unadon",
+  "photoQuery": "unagi bento rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--k1": {
+  "key": "4550fceda8c1",
+  "blurb": "Stir-fried chicken and rice cooked with tangy, spicy fermented Korean kimchi cabbage.",
+  "spicy": 2,
+  "allergens": [
+   "soy",
+   "fish",
+   "sesame",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Kimchi fried rice",
+  "photoQuery": "kimchi chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--k2": {
+  "key": "7f420dcfba58",
+  "blurb": "Chewy Korean rice cakes simmered in a sweet and spicy red chili pepper sauce.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "sesame",
+   "fish"
+  ],
+  "wikiTitle": "Tteokbokki",
+  "photoQuery": "tteokbokki rice cakes",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--u1": {
+  "key": "99d488758387",
+  "blurb": "Noodle soup served with crispy deep-fried batter-coated prawns in a warm broth.",
+  "spicy": 0,
+  "allergens": [
+   "shellfish",
+   "wheat/gluten",
+   "egg",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Udon",
+  "photoQuery": "prawn tempura udon",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--u2": {
+  "key": "8667927b1dec",
+  "blurb": "Japanese noodle soup topped with sweet seasoned fried tofu pockets in savory soy broth.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Kitsune udon",
+  "photoQuery": "kitsune udon soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--u4": {
+  "key": "2050357d1f46",
+  "blurb": "Chewy wheat or ramen noodles served with chicken slices in a warm, savory broth.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg",
+   "fish"
+  ],
+  "wikiTitle": "Udon",
+  "photoQuery": "chicken udon ramen",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--u5": {
+  "key": "d3230e10a3d1",
+  "blurb": "Noodles served in a rich Japanese mild curry broth, topped with crispy breaded chicken.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Curry udon",
+  "photoQuery": "chicken katsu curry udon",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--m2": {
+  "key": "050b0a54b2ea",
+  "blurb": "Wheat noodles in hot soup topped with tender chicken cooked in sweet teriyaki sauce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg",
+   "fish",
+   "sesame"
+  ],
+  "wikiTitle": "Udon",
+  "photoQuery": "chicken teriyaki udon",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--m3": {
+  "key": "746ff95d8144",
+  "blurb": "Hot noodle soup topped with flavorful slices of smoked duck in a light soy broth.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg",
+   "fish"
+  ],
+  "wikiTitle": "Udon",
+  "photoQuery": "smoked duck udon",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--add01": {
+  "key": "6cc493e1e03d",
+  "blurb": "Soft-boiled egg with a runny yolk, perfect as a creamy add-on for ramen or rice dishes.",
+  "spicy": 0,
+  "allergens": [
+   "egg"
+  ],
+  "wikiTitle": "Soft-boiled egg",
+  "photoQuery": "ramen soft boiled egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--add02": {
+  "key": "075580650b62",
+  "blurb": "Crunchy Korean side dish made of cubed daikon radish fermented in chili and garlic sauce.",
+  "spicy": 2,
+  "allergens": [
+   "fish"
+  ],
+  "wikiTitle": "Kkakdugi",
+  "photoQuery": "radish kimchi kkakdugi",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--add03": {
+  "key": "4a99abafc009",
+  "blurb": "Traditional Korean side dish of fermented napa cabbage with a sour, tangy, and spicy taste.",
+  "spicy": 2,
+  "allergens": [
+   "fish"
+  ],
+  "wikiTitle": "Kimchi",
+  "photoQuery": "cabbage kimchi",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--add04": {
+  "key": "754034fcbb2e",
+  "blurb": "Hard-boiled egg simmered in a savory soy sauce marinade, infused with subtle spices.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Soy egg",
+  "photoQuery": "japanese braised soy egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--mo01": {
+  "key": "a0de07eab712",
+  "blurb": "Soft and chewy Japanese rice cake snack filled with sweet red bean paste.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Daifuku",
+  "photoQuery": "red bean mochi",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--mo02": {
+  "key": "090aa9de1115",
+  "blurb": "Chewy rice cake filled with sweet paste infused with fragrant, herbal pandan leaf flavor.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Mochi",
+  "photoQuery": "pandan mochi green",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--mo03": {
+  "key": "d8b701cafa9d",
+  "blurb": "Soft, stretchy rice cake ball stuffed with a creamy, nutty peanut butter filling.",
+  "spicy": 0,
+  "allergens": [
+   "peanuts"
+  ],
+  "wikiTitle": "Mochi",
+  "photoQuery": "peanut butter mochi",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--mo04": {
+  "key": "040539fe9482",
+  "blurb": "Soft rice cake shell wrapped around a rich, nutty roasted black sesame filling.",
+  "spicy": 0,
+  "allergens": [
+   "sesame"
+  ],
+  "wikiTitle": "Daifuku",
+  "photoQuery": "black sesame mochi",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--mo05": {
+  "key": "db5ad03c34a4",
+  "blurb": "Matcha green tea-flavored chewy rice cake stuffed with sweet red bean paste.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Daifuku",
+  "photoQuery": "matcha red bean mochi",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--te01": {
+  "key": "15a8f4ce51a3",
+  "blurb": "Cone-shaped seaweed hand roll stuffed with sushi rice and crispy breaded chicken cutlet.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "Sushi",
+  "photoQuery": "chicken katsu temaki sushi",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--te02": {
+  "key": "9cf6a6926697",
+  "blurb": "Hand-rolled nori cone filled with sushi rice and sweet soy-glazed teriyaki chicken.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "Sushi",
+  "photoQuery": "chicken teriyaki temaki sushi",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--te03": {
+  "key": "7b0969c970f3",
+  "blurb": "Nori seaweed cone filled with sushi rice and cooked prawn.",
+  "spicy": 0,
+  "allergens": [
+   "shellfish",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "Sushi",
+  "photoQuery": "ebi temaki hand roll",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--ya01": {
+  "key": "d65f1b0afa97",
+  "blurb": "Grilled sweet Japanese layered omelet topped with savory lobster salad and spicy mentaiko mayo.",
+  "spicy": 1,
+  "allergens": [
+   "egg",
+   "shellfish",
+   "fish",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Tamagoyaki",
+  "photoQuery": "tamagoyaki mentai mayo",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--ya02": {
+  "key": "7726bf6daa34",
+  "blurb": "Sweet grilled Japanese layered egg omelet topped with melted cheese and creamy mayonnaise.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "milk",
+   "soy"
+  ],
+  "wikiTitle": "Tamagoyaki",
+  "photoQuery": "yaki tamago cheese mayo",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--sn01": {
+  "key": "f22c82ea4f37",
+  "blurb": "Japanese-style bite-sized fried chicken marinated in soy sauce, ginger, and garlic for a savory crunch.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Karaage",
+  "photoQuery": "chicken karaage",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--sn02": {
+  "key": "ddfed8544110",
+  "blurb": "Pan-fried Japanese dumplings stuffed with tangy, mildly spicy kimchi and savory minced filling.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "Gyoza",
+  "photoQuery": "kimchi gyoza",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--sn03": {
+  "key": "1f7bca59dce3",
+  "blurb": "Deep-fried crispy dough balls filled with gooey, stretchy warm cheese.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "korean cheese ball",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--sn04": {
+  "key": "ca63175a01e0",
+  "blurb": "Tender scallop seafood patty coated in crispy panko breadcrumbs and fried golden.",
+  "spicy": 0,
+  "allergens": [
+   "shellfish",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "breaded scallop",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--sn05": {
+  "key": "e482a2e47c75",
+  "blurb": "Spherical grilled batter balls filled with juicy prawn piece, topped with savory sauce and mayo.",
+  "spicy": 0,
+  "allergens": [
+   "shellfish",
+   "wheat/gluten",
+   "egg",
+   "soy",
+   "milk"
+  ],
+  "wikiTitle": "Takoyaki",
+  "photoQuery": "ebiyaki prawn balls",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--sn06": {
+  "key": "6140696699aa",
+  "blurb": "Japanese street food batter balls filled with octopus pieces, drizzled with sweet dark sauce and mayo.",
+  "spicy": 0,
+  "allergens": [
+   "shellfish",
+   "wheat/gluten",
+   "egg",
+   "soy",
+   "milk"
+  ],
+  "wikiTitle": "Takoyaki",
+  "photoQuery": "takoyaki octopus balls",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--rd01": {
+  "key": "a7e0b3b8ae6d",
+  "blurb": "Steamed rice topped with sweet rolled omelet and creamy, slightly spicy flame-torched cod roe mayo.",
+  "spicy": 1,
+  "allergens": [
+   "egg",
+   "fish",
+   "milk",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Donburi",
+  "photoQuery": "tamago mentai don",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--rd02": {
+  "key": "43b62d1d7349",
+  "blurb": "Korean-style crispy fried chicken glazed in a sticky, sweet and mild-spicy red chili glaze.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "Yangnyeom chicken",
+  "photoQuery": "korean sweet spicy fried chicken",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--rd03": {
+  "key": "10112e49d062",
+  "blurb": "Crispy double-fried chicken coated in a savory, aromatic sweet soy sauce and garlic glaze.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "Korean fried chicken",
+  "photoQuery": "soy garlic fried chicken",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--rd04": {
+  "key": "767b0434a2e4",
+  "blurb": "Thick, chewy udon noodles stir-fried with vegetables in a savory Japanese soy-based sauce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Yaki udon",
+  "photoQuery": "yaki udon stir fried noodles",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--su01": {
+  "key": "f7c03d20b710",
+  "blurb": "Assorted Japanese vinegared rice rolls and toppings served together as a platter.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "shellfish",
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Sushi",
+  "photoQuery": "sushi set platter",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--df01": {
+  "key": "b2ed7e747716",
+  "blurb": "Soft, chewy Japanese glutinous rice cake stuffed with sweet red bean paste infused with earthy matcha.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Daifuku",
+  "photoQuery": "matcha red bean daifuku",
+  "estPrice": 1.8,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--df02": {
+  "key": "c11cc76f7056",
+  "blurb": "Chewy Japanese glutinous rice cake filled with a sweet, fruity mango paste filling.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Daifuku",
+  "photoQuery": "mango daifuku mochi",
+  "estPrice": 1.8,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--df03": {
+  "key": "a260e98a39ba",
+  "blurb": "Soft and chewy Japanese glutinous rice cake filled with a fragrant, sweet peach filling.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Daifuku",
+  "photoQuery": "peach daifuku mochi",
+  "estPrice": 1.8,
+  "model": "gemini-3.5-flash"
+ },
+ "japanese-korean--df04": {
+  "key": "2892885d2edd",
+  "blurb": "Chewy Japanese glutinous rice cake wrapped around a rich, sweet chocolate cream filling.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "soy"
+  ],
+  "wikiTitle": "Daifuku",
+  "photoQuery": "chocolate daifuku mochi",
+  "estPrice": 1.8,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--n1": {
+  "key": "32d5b5d06990",
+  "blurb": "Flat rice noodles and vermicelli served in a silky, savory egg gravy.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "cantonese kuey teow meehoon",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--n2": {
+  "key": "55e6827bd6e1",
+  "blurb": "Thin rice vermicelli stir-fried with curry powder, vegetables, and savory seasonings.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Singapore-style noodles",
+  "photoQuery": "singapore fried noodles",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--n3": {
+  "key": "dab8decfb275",
+  "blurb": "Stir-fried flat rice noodles cooked over high heat with soy sauce, egg, and bean sprouts.",
+  "spicy": 1,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Char kway teow",
+  "photoQuery": "char kway teow",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--n4": {
+  "key": "263671cffde5",
+  "blurb": "Thin rice vermicelli stir-fried in hot and sour Thai tom yam paste with aromatic herbs.",
+  "spicy": 3,
+  "allergens": [
+   "soy",
+   "fish",
+   "shellfish"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "tomyum fried meehoon",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--n5": {
+  "key": "98e796f005cb",
+  "blurb": "Seared flat rice noodles drenched in a rich, velvety egg-based gravy.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "wat dan hor",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--n6": {
+  "key": "cc9ecec5a6a3",
+  "blurb": "Crispy egg noodles smothered in a savory egg gravy until softened and rich.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Yi mein",
+  "photoQuery": "cantonese yee mee",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--n7": {
+  "key": "bc73cbfc8e67",
+  "blurb": "Yellow noodles stir-fried in a sweet and spicy soy sauce with vegetables and egg.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Mee goreng",
+  "photoQuery": "mee goreng",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r1": {
+  "key": "805fc5219920",
+  "blurb": "Light, savory fried rice cooked with egg, vegetables, and subtle seasonings.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "cantonese fried rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r2": {
+  "key": "f5746f38b537",
+  "blurb": "Fragrant fried rice seasoned with tangy, zesty tom yam paste and chili.",
+  "spicy": 3,
+  "allergens": [
+   "egg",
+   "soy",
+   "fish",
+   "shellfish"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "tomyum fried rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r3": {
+  "key": "f6abbe757224",
+  "blurb": "Fried rice infused with aromatic curry powder, dried shrimp, garlic, and chili.",
+  "spicy": 3,
+  "allergens": [
+   "egg",
+   "soy",
+   "shellfish",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "kam heong fried rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r4": {
+  "key": "9c29ad680ad5",
+  "blurb": "Crispy chicken coated in a tangy sweet and sour glaze, served with rice and fried egg.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Sweet and sour chicken",
+  "photoQuery": "sweet and sour chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r5": {
+  "key": "715c4403cf62",
+  "blurb": "Tender chicken stir-fried with dried chilies, garlic, and soy sauce, served with rice and egg.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Kung Pao chicken",
+  "photoQuery": "kung pao chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r6": {
+  "key": "4d89e1944b5d",
+  "blurb": "Crispy chicken tossed in a creamy butter sauce with curry leaves, served over rice.",
+  "spicy": 1,
+  "allergens": [
+   "milk",
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "malaysian butter chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r7": {
+  "key": "07a6442e18e8",
+  "blurb": "Crispy chicken glazed in a smoky-sweet barbecue sauce, served with rice and egg.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "bbq chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r8": {
+  "key": "9c95724d1b55",
+  "blurb": "Deep-fried chicken coated in a sticky, savory-sweet Marmite yeast glaze over rice.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "marmite chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r9": {
+  "key": "c3f40cf8f92a",
+  "blurb": "Chicken fried in a fragrant mixture of curry powder, dried shrimp, and chili, with rice.",
+  "spicy": 3,
+  "allergens": [
+   "shellfish",
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "kam heong chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r10": {
+  "key": "6ec75f5f14c6",
+  "blurb": "Deep-fried chicken bits tossed in a rich, savory salted egg yolk sauce with rice.",
+  "spicy": 1,
+  "allergens": [
+   "egg",
+   "milk",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "salted egg chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r11": {
+  "key": "089fe1756d66",
+  "blurb": "Chicken simmered in a tangy tamarind chili sauce, served alongside rice and egg.",
+  "spicy": 2,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "asam chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r12": {
+  "key": "8ddbc407b15f",
+  "blurb": "Deep-fried crispy chicken with a lightly seasoned golden crust, served with rice and egg.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "golden fried chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r13": {
+  "key": "fe4d0f1fd20f",
+  "blurb": "Meat-free fried rice stir-fried with mixed vegetables and egg.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "vegetarian fried rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r14": {
+  "key": "345a2dd7dcca",
+  "blurb": "Tender chicken tossed in a savory, slightly sweet and creamy pepper sauce with rice.",
+  "spicy": 1,
+  "allergens": [
+   "milk",
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "mongolian chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r15": {
+  "key": "121dbd8550d5",
+  "blurb": "Crispy fried chicken topped with tangy fresh mango shreds and sweet sauce, served with rice.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "mango chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r16": {
+  "key": "982e6046ed2d",
+  "blurb": "Fried chicken infused with rich minced garlic and soy sauce, served over rice.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "garlic chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r17": {
+  "key": "d5f5db1a9e2b",
+  "blurb": "Chicken stir-fried in a peppery, savory black sauce, served with steamed rice and egg.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "black pepper chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r18": {
+  "key": "f8c9ee9f9603",
+  "blurb": "Fried chicken tossed with crispy egg floss, curry leaves, and butter, served with rice.",
+  "spicy": 1,
+  "allergens": [
+   "milk",
+   "egg",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "dry butter chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--r19": {
+  "key": "2501628f012f",
+  "blurb": "Crispy fried chicken slices drenched in a bright, sweet and sour lemon glaze with rice.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Lemon chicken",
+  "photoQuery": "lemon chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--k1": {
+  "key": "c6dc2579009c",
+  "blurb": "Korean-style fried rice cooked with tangy, spicy fermented kimchi and topped with egg.",
+  "spicy": 2,
+  "allergens": [
+   "egg",
+   "soy",
+   "fish",
+   "sesame"
+  ],
+  "wikiTitle": "Kimchi fried rice",
+  "photoQuery": "kimchi fried rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--k2": {
+  "key": "86ed95029a21",
+  "blurb": "Deep-fried chicken pieces glazed in a sticky, sweet chili sauce.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Yangnyeom chicken",
+  "photoQuery": "sweet and spicy chicken",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--k3": {
+  "key": "6589c2560981",
+  "blurb": "Crispy fried chicken coated in a sweet, glossy honey garlic glaze.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "korean honey chicken",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--od01": {
+  "key": "7492c28c7aa8",
+  "blurb": "Savory steamed or boiled fish paste cakes served hot in clear broth.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Fish cake",
+  "photoQuery": "asian fish cake soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--od02": {
+  "key": "6be1f8aba1ab",
+  "blurb": "Skewered processed fish cake slice served in soup, savory and mild.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Eomuk",
+  "photoQuery": "korean fish cake eomuk",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--od03": {
+  "key": "706721698024",
+  "blurb": "Savory fish paste mixed with tofu and a molten cheese center, served in broth.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "milk",
+   "soy",
+   "egg",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fish cake",
+  "photoQuery": "cheese seafood tofu",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--od04": {
+  "key": "7d837cfa898b",
+  "blurb": "Deep-fried fish paste ball with a bouncy texture and savory taste, served in broth.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fish ball",
+  "photoQuery": "fried fishball soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--od05": {
+  "key": "c467a774e100",
+  "blurb": "Small savory meat sausages cooked in light broth.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Vienna sausage",
+  "photoQuery": "cocktail sausage soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--od06": {
+  "key": "ed762d50c16d",
+  "blurb": "Layered processed fish paste snack poached in broth, chewy and savory.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fish cake",
+  "photoQuery": "fish cake slice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--od07": {
+  "key": "6dd06db7d815",
+  "blurb": "Chewy savory seafood ball flavored with lobster extract, served in hot broth.",
+  "spicy": 0,
+  "allergens": [
+   "shellfish",
+   "fish",
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fish ball",
+  "photoQuery": "lobster ball soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--od08": {
+  "key": "2f51de087582",
+  "blurb": "Deep-fried tofu puff that absorbs broth, offering a spongy, soft texture.",
+  "spicy": 0,
+  "allergens": [
+   "soy"
+  ],
+  "wikiTitle": "Tofu skin",
+  "photoQuery": "fried beancurd soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--od09": {
+  "key": "0caed1811d12",
+  "blurb": "Savory fish paste cake mixed with chopped vegetables, poached in warm broth.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fish cake",
+  "photoQuery": "vegetable fish cake",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--mr01": {
+  "key": "e91cf2c3340f",
+  "blurb": "Plain rice served with your choice of two vegetable dishes and one meat dish.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Economy rice",
+  "photoQuery": "chinese mixed rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--mr02": {
+  "key": "4b5dea34afe1",
+  "blurb": "Plain rice served with your choice of one vegetable dish and one meat dish.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Economy rice",
+  "photoQuery": "chinese mixed rice",
+  "estPrice": 8,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--mr03": {
+  "key": "1628111fe014",
+  "blurb": "Plain rice served with your choice of two meat dishes and one vegetable dish.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Economy rice",
+  "photoQuery": "chinese mixed rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--mr04": {
+  "key": "e08430cab906",
+  "blurb": "Plain rice served with your choice of two vegetable side dishes.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Economy rice",
+  "photoQuery": "chinese mixed rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--mr05": {
+  "key": "771cc89e8121",
+  "blurb": "Plain rice served with your choice of one meat side dish.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Economy rice",
+  "photoQuery": "chinese mixed rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--mr06": {
+  "key": "4f243d7b7101",
+  "blurb": "Plain rice served with your choice of three meat side dishes.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Economy rice",
+  "photoQuery": "chinese mixed rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--mr07": {
+  "key": "40f9f0c4dbfb",
+  "blurb": "Plain rice served with your choice of three vegetable side dishes.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Economy rice",
+  "photoQuery": "chinese mixed rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--mr08": {
+  "key": "c0905f52bc34",
+  "blurb": "Plain rice served with your choice of two meat side dishes.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Economy rice",
+  "photoQuery": "chinese mixed rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--mr09": {
+  "key": "b45d02848a79",
+  "blurb": "Plain rice served with your choice of three vegetable dishes and one meat dish.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Economy rice",
+  "photoQuery": "chinese mixed rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--mr10": {
+  "key": "a0a2e21268bf",
+  "blurb": "Plain rice served with your choice of two vegetable dishes and two meat dishes.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Economy rice",
+  "photoQuery": "chinese mixed rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--sd01": {
+  "key": "316e35f71a9e",
+  "blurb": "Single whole chicken drumstick cooked ala carte, juicy and seasoned.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Chicken as food",
+  "photoQuery": "cooked chicken drumstick",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--sd02": {
+  "key": "86985d3fd835",
+  "blurb": "Deep-fried seasoned chicken skin, extremely crispy and savory.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Crispy fried chicken",
+  "photoQuery": "fried chicken skin",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--sd03": {
+  "key": "a0d950283d60",
+  "blurb": "Stir-fried or crispy fried oyster mushrooms, tender with a savory bite.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Pleurotus ostreatus",
+  "photoQuery": "fried oyster mushrooms",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--sd04": {
+  "key": "aa4a120d5217",
+  "blurb": "Tender pieces of lamb simmered in a fragrant, spicy Malaysian curry gravy.",
+  "spicy": 3,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Curry",
+  "photoQuery": "lamb curry dish",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "chinese--sd05": {
+  "key": "d0be7d10cf07",
+  "blurb": "Tempeh: fermented soybean cake cooked in sauce, nutty and savory.",
+  "spicy": 1,
+  "allergens": [
+   "soy"
+  ],
+  "wikiTitle": "Tempeh",
+  "photoQuery": "fried tempeh",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--bg01": {
+  "key": "9b98b4064b39",
+  "blurb": "A crispy fried potato hash brown served in a burger bun with sauce and fresh veggies.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Hamburger",
+  "photoQuery": "hash brown burger",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--bg02": {
+  "key": "8d0f72ab1588",
+  "blurb": "Crispy deep-fried chicken patty served inside a soft bun with lettuce and creamy mayo.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Chicken sandwich",
+  "photoQuery": "crispy fried chicken burger",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--bg03": {
+  "key": "0ca04e20033c",
+  "blurb": "Crispy deep-fried chicken patty tossed in spicy chili sauce, served in a burger bun.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Chicken sandwich",
+  "photoQuery": "spicy fried chicken burger",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--bg04": {
+  "key": "7b8a26716089",
+  "blurb": "A tender chicken patty topped with savory, peppery black pepper sauce inside a burger bun.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Chicken sandwich",
+  "photoQuery": "black pepper chicken burger",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--bg05": {
+  "key": "527d8d8e1e0c",
+  "blurb": "A crispy breaded fish fillet served in a soft burger bun with lettuce and tartar sauce.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Fish sandwich",
+  "photoQuery": "fish fillet burger",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--bg06": {
+  "key": "550ae8dafab0",
+  "blurb": "A grilled beef patty smothered in a warm, peppery black pepper sauce inside a soft bun.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Hamburger",
+  "photoQuery": "black pepper beef burger",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--bg07": {
+  "key": "1e688783ecf3",
+  "blurb": "A savory grilled beef patty layered with melted cheese and sauce inside a soft burger bun.",
+  "spicy": 1,
+  "allergens": [
+   "milk",
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Cheeseburger",
+  "photoQuery": "cheesy beef burger",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--hd01": {
+  "key": "65e36f70980a",
+  "blurb": "A savory sausage tucked in a hot dog bun and topped with creamy, mildly spicy chili mayonnaise.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Hot dog",
+  "photoQuery": "chili mayo hot dog",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--hd02": {
+  "key": "6cddbd00df17",
+  "blurb": "A grilled sausage in a soft bun drizzled with sweet ketchup and creamy mayonnaise.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Hot dog",
+  "photoQuery": "hot dog mayonnaise ketchup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--hd03": {
+  "key": "d6c6d7bf27a5",
+  "blurb": "A juicy sausage served in a bun with a tangy, citrusy lemon mayonnaise sauce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Hot dog",
+  "photoQuery": "lemon mayo hot dog",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--gn01": {
+  "key": "25a3ff3e3951",
+  "blurb": "A simple chicken patty served inside a soft burger bun with sauce and lettuce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Chicken sandwich",
+  "photoQuery": "chicken burger",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--gn02": {
+  "key": "44ec06cbf48c",
+  "blurb": "A classic beef patty served in a soft bun with lettuce and savory burger sauce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Hamburger",
+  "photoQuery": "classic beef burger",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--gn03": {
+  "key": "8cbea5309feb",
+  "blurb": "A crispy breaded fish patty served inside a toasted bun with mayo and lettuce.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Fish sandwich",
+  "photoQuery": "crispy fish fillet burger",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--gn04": {
+  "key": "72e66d9eb9f9",
+  "blurb": "A golden fried potato patty packed into a soft bun with fresh lettuce and sauce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Hamburger",
+  "photoQuery": "hash brown burger",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--rc01": {
+  "key": "8889f18b260a",
+  "blurb": "Bite-sized crispy fried chicken nuggets served alongside a portion of warm white rice.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Popcorn chicken",
+  "photoQuery": "popcorn chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--rc02": {
+  "key": "3a18251d0bf1",
+  "blurb": "A deep-fried boneless chicken chop served over rich, fragrant butter-seasoned rice.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Chicken cutlet",
+  "photoQuery": "chicken cutlet butter rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--fc01": {
+  "key": "f38739426a3f",
+  "blurb": "Golden breaded fish fillet served with French fries and a side of fresh garden salad.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Fish and chips",
+  "photoQuery": "fish and chips salad",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--fc02": {
+  "key": "022469e4a66c",
+  "blurb": "Crispy battered fish served with fries, fresh salad, and a refreshing lemon mayo dip.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Fish and chips",
+  "photoQuery": "fish and chips lemon mayo",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--fc03": {
+  "key": "3bacd93e3ddd",
+  "blurb": "Crispy fish fillet paired with fries, salad, and a kick of spicy mayonnaise sauce.",
+  "spicy": 1,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Fish and chips",
+  "photoQuery": "fish and chips spicy mayo",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--cc01": {
+  "key": "048cc6aedb49",
+  "blurb": "Deep-fried chicken chop smothered in rich, savory salted egg sauce, served with French fries.",
+  "spicy": 1,
+  "allergens": [
+   "milk",
+   "egg",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Chicken chop",
+  "photoQuery": "salted egg chicken chop fries",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--cc02": {
+  "key": "e1d054598104",
+  "blurb": "Crispy fried chicken cutlet coated in a creamy, buttery sauce with fries on the side.",
+  "spicy": 1,
+  "allergens": [
+   "milk",
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Chicken chop",
+  "photoQuery": "buttermilk chicken chop fries",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--cc03": {
+  "key": "90c2d20c41a5",
+  "blurb": "Crispy deep-fried chicken chop drizzled with sweet, tangy, and mildly spicy Thai chili sauce.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Chicken chop",
+  "photoQuery": "thai style chicken chop fries",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--cc04": {
+  "key": "e99b22bca67a",
+  "blurb": "Crispy chicken cutlet served with creamy, tangy tartar sauce and French fries.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Chicken chop",
+  "photoQuery": "chicken chop tartar sauce fries",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--cc05": {
+  "key": "c06d0bdcb2a5",
+  "blurb": "Deep-fried boneless chicken chop drizzled with creamy lemon mayo, served alongside fries.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Chicken chop",
+  "photoQuery": "lemon mayo chicken chop fries",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--cc06": {
+  "key": "005ec931da1e",
+  "blurb": "Crispy chicken chop drenched in savory, peppery black pepper sauce, served with fries.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Chicken chop",
+  "photoQuery": "black pepper chicken chop fries",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--qs01": {
+  "key": "38e88e37d34b",
+  "blurb": "Warm folded tortilla stuffed with seasoned chicken and melted cheese, served with fries.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Quesadilla",
+  "photoQuery": "chicken quesadilla with fries",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--qs02": {
+  "key": "f00bd7618e12",
+  "blurb": "Toasted tortilla filled with savory beef filling and melted cheese, paired with fries.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Quesadilla",
+  "photoQuery": "beef quesadilla with fries",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--wr01": {
+  "key": "d542f8f28669",
+  "blurb": "Tender fried chicken rolled in a soft flatbread tortilla with lettuce and mayo, served with fries.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Wrap (food)",
+  "photoQuery": "fried chicken wrap with fries",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--wr02": {
+  "key": "fc8e979b107f",
+  "blurb": "Crispy spicy chicken rolled in a soft tortilla wrap with veggies, served with fries.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Wrap (food)",
+  "photoQuery": "spicy chicken wrap fries",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--wr03": {
+  "key": "39e48a3d33cf",
+  "blurb": "A chicken sausage wrapped in a soft flour tortilla with sauce, served with a side of fries.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Wrap (food)",
+  "photoQuery": "sausage wrap with fries",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--wr04": {
+  "key": "2ddca28577b5",
+  "blurb": "A tortilla wrap stuffed with a crispy hash brown patty, served alongside French fries.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Wrap (food)",
+  "photoQuery": "hash brown wrap fries",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--ad01": {
+  "key": "29131805cb40",
+  "blurb": "Plain steamed white rice to add to your meal.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Steamed rice",
+  "photoQuery": "steamed white rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--ad02": {
+  "key": "276bcbe4ffc3",
+  "blurb": "A grilled savory beef patty to add extra protein to your dish.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Patty",
+  "photoQuery": "beef burger patty",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--ad03": {
+  "key": "0c66aeee5651",
+  "blurb": "A classic sunny-side-up or fried egg add-on.",
+  "spicy": 0,
+  "allergens": [
+   "egg"
+  ],
+  "wikiTitle": "Fried egg",
+  "photoQuery": "fried egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--ad04": {
+  "key": "83c2b85f8bc6",
+  "blurb": "A crispy breaded or battered fried fish fillet.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fish fry",
+  "photoQuery": "fried fish fillet",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--ad05": {
+  "key": "67d1e2f4b61c",
+  "blurb": "A deep-fried breaded boneless chicken cutlet with a crunchy coating.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Chicken cutlet",
+  "photoQuery": "fried chicken chop",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--ad06": {
+  "key": "601a22b5161c",
+  "blurb": "A single slice of processed cheese to top your burger or wrap.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Processed cheese",
+  "photoQuery": "sliced cheese",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--dr01": {
+  "key": "7f9a8c157fa1",
+  "blurb": "Chilled carbonated cola soft drink.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Cola",
+  "photoQuery": "can of coke",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--dr02": {
+  "key": "d1fd0a688144",
+  "blurb": "Refreshing cola served with a squeeze or slice of fresh lemon.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Cola",
+  "photoQuery": "lemon coke iced",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--dr03": {
+  "key": "2c9393d776e4",
+  "blurb": "A sparkling, sweet and tangy lemon-flavored carbonated drink.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Lemonade",
+  "photoQuery": "iced lemon soda drink",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--dr04": {
+  "key": "5c7f9354909a",
+  "blurb": "Fizzy soda mixed with sweet and fruity blackcurrant syrup.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "",
+  "photoQuery": "ribena soda drink",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--dr05": {
+  "key": "31d45df76759",
+  "blurb": "Carbonated, sweet orange-flavored sparkling drink.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Orange soft drink",
+  "photoQuery": "orange soda drink",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "burgers--dr06": {
+  "key": "ab89fd8c677b",
+  "blurb": "Bottled drinking mineral water.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Mineral water",
+  "photoQuery": "bottled mineral water",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to01": {
+  "key": "913b0604a229",
+  "blurb": "Two soft, runny poached eggs usually seasoned with dark soy sauce and white pepper.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Soft-boiled egg",
+  "photoQuery": "half boiled eggs",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to02": {
+  "key": "e09df6960584",
+  "blurb": "Toasted bread sandwiching thick cold butter and kaya, a sweet coconut egg jam.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "egg",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Kaya toast",
+  "photoQuery": "kaya butter toast",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to03": {
+  "key": "fe8664e05eed",
+  "blurb": "Crisp toasted bread spread with creamy margarine and sprinkled with sugar.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Toast (food)",
+  "photoQuery": "margarine sugar toast",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to04": {
+  "key": "71d0be2807c2",
+  "blurb": "Crisp toast spread with margarine and drizzled with sweet condensed milk.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Toast (food)",
+  "photoQuery": "condensed milk toast",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to05": {
+  "key": "97c6f27d833f",
+  "blurb": "Warm toasted bread generously spread with nutty, creamy peanut butter.",
+  "spicy": 0,
+  "allergens": [
+   "peanuts",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Peanut butter on toast",
+  "photoQuery": "peanut butter toast",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to06": {
+  "key": "0881969759a0",
+  "blurb": "Warm toasted bread spread with crushed peanuts and sweet peanut butter spread.",
+  "spicy": 0,
+  "allergens": [
+   "peanuts",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Peanut butter on toast",
+  "photoQuery": "peanut toast",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to07": {
+  "key": "c211c987fc85",
+  "blurb": "Toast topped with condensed milk and a heavy dusting of sweet chocolate-malt Milo powder.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Roti bakar",
+  "photoQuery": "milo toast",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to08": {
+  "key": "12b378b032b7",
+  "blurb": "Toasted bread stuffed with creamy boiled egg salad and mayonnaise.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Egg sandwich",
+  "photoQuery": "egg mayo toast",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to09": {
+  "key": "d233090fb099",
+  "blurb": "Crisp toast filled with savory flaked tuna fish blended with mayonnaise.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "egg",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Tuna fish sandwich",
+  "photoQuery": "tuna mayo toast",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to10": {
+  "key": "a1c8e77d8b4a",
+  "blurb": "Toasted sandwich filled with savory sliced chicken ham and melted cheese.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Ham and cheese sandwich",
+  "photoQuery": "cheese ham toast",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to11": {
+  "key": "eaf6aacd23d5",
+  "blurb": "Toast stuffed with savory tuna salad and melted sliced cheese.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "fish",
+   "egg",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Tuna melt",
+  "photoQuery": "tuna cheese toast",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to12": {
+  "key": "3ed0f52a010f",
+  "blurb": "Toasted sandwich loaded with fried chicken luncheon meat slice and a fried egg.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Egg sandwich",
+  "photoQuery": "luncheon meat egg toast",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to13": {
+  "key": "f7f57a2cf921",
+  "blurb": "Hearty platter of toasted bread, fried egg, chicken sausage, and ham slices.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "wheat/gluten",
+   "soy",
+   "milk"
+  ],
+  "wikiTitle": "Full breakfast",
+  "photoQuery": "breakfast platter toast sausage",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to14": {
+  "key": "37b4727b600e",
+  "blurb": "Assorted traditional bite-sized Malaysian cakes made from rice flour and coconut milk.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Kuih",
+  "photoQuery": "malaysian kuih muih",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nl01": {
+  "key": "7911a74b5c3a",
+  "blurb": "Fragrant coconut rice served with spicy sambal chili paste, fried anchovies, peanuts, and cucumber.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "fish"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nl02": {
+  "key": "cd4023406566",
+  "blurb": "Coconut rice paired with crispy fried chicken, spicy sambal chili sauce, peanuts, and anchovies.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "fish",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak fried chicken",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nl03": {
+  "key": "00cba5f7c7dc",
+  "blurb": "Coconut rice paired with tender chicken in aromatic curry gravy, spicy sambal, and peanuts.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "fish"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak curry chicken",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nl04": {
+  "key": "e812ad72cd02",
+  "blurb": "Coconut rice served with fried chicken sausage, spicy sambal chili paste, peanuts, and anchovies.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "fish",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak sausage",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nl05": {
+  "key": "e7ac74c379f0",
+  "blurb": "Coconut rice paired with savory chicken luncheon meat, spicy sambal, peanuts, and anchovies.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "fish",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak luncheon meat",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nl06": {
+  "key": "ca15f5e3ac63",
+  "blurb": "Coconut rice served with a large crispy boneless chicken chop, spicy sambal, and peanuts.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "fish",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak chicken chop",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd01": {
+  "key": "0a3b02aeca23",
+  "blurb": "Noodles served in rich, spicy coconut milk curry broth with tofu puffs and fishcakes.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish",
+   "shellfish"
+  ],
+  "wikiTitle": "Curry mee",
+  "photoQuery": "malaysian curry noodle soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd02": {
+  "key": "74a0247863c0",
+  "blurb": "Noodles served in a hot, sour, and fragrant Thai-style tom yum herbal broth.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "fish",
+   "shellfish",
+   "soy"
+  ],
+  "wikiTitle": "Tom yum",
+  "photoQuery": "tomyum noodle soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd03": {
+  "key": "4b71009e1a8c",
+  "blurb": "Noodles served in a savory, aromatic broth brewed from prawns and spices.",
+  "spicy": 2,
+  "allergens": [
+   "shellfish",
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Hae mee",
+  "photoQuery": "penang prawn noodle soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd04": {
+  "key": "d09581b79d6b",
+  "blurb": "Soft noodles in light, clear savory broth served with bouncy fish balls and spring onions.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Fish ball",
+  "photoQuery": "fish ball noodle soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd05": {
+  "key": "359b573e1477",
+  "blurb": "Springy noodles tossed in savory soy sauce, topped with spring onions and served with fish balls.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "Fish ball",
+  "photoQuery": "dry fish ball noodles",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd06": {
+  "key": "695071b62457",
+  "blurb": "Instant noodles in savory soup topped with chicken luncheon meat and a cooked egg.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Instant noodles",
+  "photoQuery": "nissin noodles luncheon meat egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd07": {
+  "key": "903703249ec9",
+  "blurb": "Instant noodles in clear warm broth topped with sliced chicken ham and a cooked egg.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Instant noodles",
+  "photoQuery": "nissin noodles ham egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd08": {
+  "key": "bd195d5aa32c",
+  "blurb": "Instant noodles served in hot broth topped with chicken sausage and a cooked egg.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Instant noodles",
+  "photoQuery": "nissin noodles sausage egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd09": {
+  "key": "781727bde28c",
+  "blurb": "Delicate thin rice vermicelli noodles in light, savory broth served with tender fish fillets.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fish head noodle soup",
+  "photoQuery": "fish fillet vermicelli soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd10": {
+  "key": "f8d9f616f45c",
+  "blurb": "Thin rice vermicelli in fiery Sichuan mala soup with numbing peppercorns and tender fish fillets.",
+  "spicy": 4,
+  "allergens": [
+   "fish",
+   "soy",
+   "wheat/gluten",
+   "sesame"
+  ],
+  "wikiTitle": "Mala (seasoning)",
+  "photoQuery": "mala fish noodle soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd11": {
+  "key": "231e6c3cebff",
+  "blurb": "Thick wheat udon noodles tossed with mild Japanese chicken curry and a crispy chicken cutlet.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Udon",
+  "photoQuery": "curry udon chicken katsu",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd12": {
+  "key": "185684bbb5a1",
+  "blurb": "Thick udon noodles tossed with mild Japanese curry and topped with a crispy breaded fish cutlet.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish",
+   "egg"
+  ],
+  "wikiTitle": "Udon",
+  "photoQuery": "curry udon fish katsu",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd13": {
+  "key": "c203439bfe14",
+  "blurb": "Soft wheat noodles in light savoury broth served with shredded chicken breast and springy fish balls.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "shredded chicken fish ball noodle soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd14": {
+  "key": "88c2b9c3595a",
+  "blurb": "Springy noodles tossed in savoury dark soy sauce, topped with shredded chicken and fish balls.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "dry fish ball chicken noodle",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd15": {
+  "key": "4bb08c964636",
+  "blurb": "Thin egg noodles in warm savoury broth served with delicate meat dumplings (wontons) and greens.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Wonton noodles",
+  "photoQuery": "wonton noodle soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd16": {
+  "key": "8f0f7dd81205",
+  "blurb": "Thin egg noodles tossed in dark soy sauce and sesame oil, served with dumplings and greens.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg",
+   "sesame"
+  ],
+  "wikiTitle": "Wonton noodles",
+  "photoQuery": "dry wonton mee",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--nd17": {
+  "key": "fa04d8cba9cf",
+  "blurb": "Instant ramen noodles in comforting broth topped with a large crispy fried chicken cutlet.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Ramen",
+  "photoQuery": "instant noodle chicken chop",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--pm01": {
+  "key": "f8cc6908220e",
+  "blurb": "Pan mee: handmade flat wheat noodles in light anchovy broth with minced meat and green leaves.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Banmian",
+  "photoQuery": "pan mee soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--pm02": {
+  "key": "a62ad25e91a4",
+  "blurb": "Pan mee: handmade flat wheat noodles tossed in dark soy sauce, topped with minced meat and anchovies.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Banmian",
+  "photoQuery": "dry pan mee",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--pm03": {
+  "key": "60d8023abb90",
+  "blurb": "Pan mee: dry flat wheat noodles tossed with spicy chili flakes, poached egg, anchovies, and meat.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish",
+   "egg"
+  ],
+  "wikiTitle": "Banmian",
+  "photoQuery": "chili pan mee dry",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--pm04": {
+  "key": "a67326d5ce2a",
+  "blurb": "Pan mee: handmade flat wheat noodles served in coconut curry broth with chicken and tofu puffs.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Banmian",
+  "photoQuery": "curry pan mee soup",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--kr1c": {
+  "key": "5cc4c84be4f2",
+  "blurb": "Steamed white rice served with crispy breaded chicken cutlet and mild sweet Japanese curry sauce.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Japanese curry",
+  "photoQuery": "chicken katsu curry rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--kr1f": {
+  "key": "c1c5d8594cd0",
+  "blurb": "Steamed rice paired with a breaded fried fish cutlet and thick, sweet Japanese curry sauce.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish",
+   "egg"
+  ],
+  "wikiTitle": "Japanese curry",
+  "photoQuery": "fish katsu curry rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--kr2c": {
+  "key": "47e7beeb7627",
+  "blurb": "Crispy breaded chicken cutlet over rice, smothered in rich white cream sauce with mushrooms.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "milk",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "creamy mushroom chicken katsu rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--kr2f": {
+  "key": "536c86319cde",
+  "blurb": "Breaded crispy fish fillet served over white rice with rich, savory mushroom cream sauce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "milk",
+   "fish",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "creamy mushroom fish katsu rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--kr3c": {
+  "key": "006eca2b2e69",
+  "blurb": "Crispy fried breaded chicken chop served over rice with a peppery black pepper sauce.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "black pepper chicken katsu rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--kr3f": {
+  "key": "1c412c90b790",
+  "blurb": "Crispy breaded fish fillet served with white rice and drizzled with pungent black pepper gravy.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "black pepper fish katsu rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--kr4c": {
+  "key": "5b7c30a56a17",
+  "blurb": "Crispy chicken cutlet served over rice with a tangy Hainanese chicken rice sweet-sour sauce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Hainanese chicken rice",
+  "photoQuery": "chicken chop rice hainanese",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--kr4f": {
+  "key": "30d522afc1d4",
+  "blurb": "Breaded fish fillet served over rice with a savory Hainanese-style tomato sauce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "fish chop rice hainanese",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--gr01": {
+  "key": "12d431d259f6",
+  "blurb": "Tender grilled chicken chop over steamed rice topped with warm cream sauce and sliced mushrooms.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "creamy mushroom chicken chop rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--gr02": {
+  "key": "690c0d938086",
+  "blurb": "Juicy grilled chicken cutlet drizzled with black pepper sauce, served alongside white rice.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "black pepper chicken chop rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--sr1c": {
+  "key": "25c073a2df59",
+  "blurb": "Tender chicken bites in sweet and tangy tomato-based sauce, served with rice and a fried egg.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Sweet and sour chicken",
+  "photoQuery": "sweet sour chicken rice egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--sr1f": {
+  "key": "3582245ecbbe",
+  "blurb": "Crispy fish pieces coated in classic sweet and sour sauce, served with white rice and a fried egg.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish",
+   "egg"
+  ],
+  "wikiTitle": "Sweet and sour",
+  "photoQuery": "sweet sour fish rice egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--sr2c": {
+  "key": "95422ff6143c",
+  "blurb": "Deep-fried chicken pieces glazed in citrusy lemon sauce, served with steamed rice and a fried egg.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Lemon chicken",
+  "photoQuery": "lemon chicken rice egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--sr2f": {
+  "key": "e5fc18e4e5d4",
+  "blurb": "Crispy fish fillet in tangy lemon sauce served over steamed rice alongside a fried egg.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "lemon fish rice egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--sr3c": {
+  "key": "dc70e4a955c3",
+  "blurb": "Fried chicken pieces smothered in rich butter gravy with curry leaves, served with rice and egg.",
+  "spicy": 1,
+  "allergens": [
+   "milk",
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "butter chicken rice egg malaysian",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--sr3f": {
+  "key": "ab94ee6f7630",
+  "blurb": "Tender fish fillet coated in sweet cream and butter gravy, served with rice and a fried egg.",
+  "spicy": 1,
+  "allergens": [
+   "milk",
+   "wheat/gluten",
+   "soy",
+   "fish",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "buttermilk fish rice egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--sr4c": {
+  "key": "19b1c1245705",
+  "blurb": "Crispy chicken chunks coated in sweet and hot gochujang chili glaze, served with rice and egg.",
+  "spicy": 4,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg",
+   "sesame"
+  ],
+  "wikiTitle": "Yangnyeom chicken",
+  "photoQuery": "korean spicy chicken rice egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--sr4f": {
+  "key": "d4357330abf5",
+  "blurb": "Fried fish fillet tossed in fiery Korean chili sauce, served with white rice and a sunny-side egg.",
+  "spicy": 4,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish",
+   "egg",
+   "sesame"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "korean spicy fish rice egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--sr5c": {
+  "key": "61d435dee24c",
+  "blurb": "Chicken slices stir-fried with fresh ginger and scallions, served over rice with a fried egg.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "ginger spring onion chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--sr5f": {
+  "key": "6d6eb00a99a5",
+  "blurb": "Tender fish stir-fried with ginger and scallions, served with white rice and a fried egg.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "ginger spring onion fish rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--cb01": {
+  "key": "5ce363b46063",
+  "blurb": "White rice topped with chicken luncheon meat and melted cheese, baked until savory and gooey.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "baked rice cheese chicken",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--cb02": {
+  "key": "a7d4c649bf98",
+  "blurb": "Rice topped with sliced chicken sausages and gooey melted cheese, baked served warm.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "baked rice cheese sausage",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--cb03": {
+  "key": "3c447e51da94",
+  "blurb": "Rice topped with sliced chicken ham and melted cheese, baked until rich and gooey.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "baked rice cheese ham",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--cb04": {
+  "key": "8cb90e6d5782",
+  "blurb": "Rice topped with juicy grilled chicken chop and melted cheese, baked until golden and rich.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "baked rice cheese chicken chop",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--to15": {
+  "key": "62eb5273faa3",
+  "blurb": "Cakoi: fried dough crullers crispy on the outside, served with sweet pandan coconut jam.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Youtiao",
+  "photoQuery": "cakoi kaya",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ds01": {
+  "key": "72643371d771",
+  "blurb": "Crispy yet chewy egg-shaped waffle with a light, sweet vanilla taste.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Egg waffle",
+  "photoQuery": "egg waffle original",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ds02": {
+  "key": "77e9eec82570",
+  "blurb": "Crispy and chewy egg waffle infused with rich chocolate flavor.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Egg waffle",
+  "photoQuery": "chocolate egg waffle",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ds03": {
+  "key": "8005df4818a5",
+  "blurb": "Crispy and chewy egg waffle with earthy Japanese green tea flavor.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Egg waffle",
+  "photoQuery": "matcha egg waffle",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ds04": {
+  "key": "df4417c0f6b6",
+  "blurb": "Crispy and chewy egg waffle flavored with aromatic green pandan leaves.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Egg waffle",
+  "photoQuery": "pandan egg waffle",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ds05": {
+  "key": "ef9d2933556b",
+  "blurb": "Eye-catching black egg waffle cooked with activated charcoal for a light, sweet crispy bite.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Egg waffle",
+  "photoQuery": "charcoal egg waffle",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ds06": {
+  "key": "ba3786fc8310",
+  "blurb": "Shaved ice dessert topped with sweet syrup, condensed milk, red beans, sweet corn, and grass jelly.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "peanuts"
+  ],
+  "wikiTitle": "Ais kacang",
+  "photoQuery": "ais kacang",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad01": {
+  "key": "66361a0beb40",
+  "blurb": "Plain steamed white rice.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Steamed rice",
+  "photoQuery": "steamed white rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad02": {
+  "key": "0abeb082437e",
+  "blurb": "Fragrant white rice cooked with coconut milk and pandan leaves.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad03": {
+  "key": "dea2eb4e9e35",
+  "blurb": "Plain cooked noodles option to add to soups or side dishes.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "yellow noodles",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad04": {
+  "key": "48050a002d59",
+  "blurb": "Pan mee: Chinese flat wheat noodles with a chewy texture.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Banmian",
+  "photoQuery": "pan mee noodles",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad05": {
+  "key": "6d467d5c8cbd",
+  "blurb": "Single sunny-side-up fried egg with a runny yolk.",
+  "spicy": 0,
+  "allergens": [
+   "egg"
+  ],
+  "wikiTitle": "Fried egg",
+  "photoQuery": "fried egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad06": {
+  "key": "d27d7663d234",
+  "blurb": "Crispy deep-fried chicken drumstick seasoned with local spices.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fried chicken",
+  "photoQuery": "fried chicken drumstick",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad07": {
+  "key": "87fa40efe9f0",
+  "blurb": "Tender chicken drumstick simmered in a mildly spicy coconut curry sauce.",
+  "spicy": 2,
+  "allergens": [],
+  "wikiTitle": "Chicken curry",
+  "photoQuery": "curry chicken drumstick",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad08": {
+  "key": "c39bf122d4b1",
+  "blurb": "Two pan-fried slices of savory chicken luncheon meat.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Luncheon meat",
+  "photoQuery": "chicken luncheon meat",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad09": {
+  "key": "48ad6fb83f78",
+  "blurb": "Two pan-fried slices of savory chicken ham.",
+  "spicy": 0,
+  "allergens": [
+   "soy"
+  ],
+  "wikiTitle": "Ham",
+  "photoQuery": "chicken ham slice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad10": {
+  "key": "466d5f40565b",
+  "blurb": "Three bouncy springy fish balls cooked in broth.",
+  "spicy": 0,
+  "allergens": [
+   "fish"
+  ],
+  "wikiTitle": "Fish ball",
+  "photoQuery": "fish balls",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad11": {
+  "key": "dc2528fb17c1",
+  "blurb": "Deep-fried breaded chicken chop served crispy with dipping sauce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Chicken katsu",
+  "photoQuery": "chicken katsu chop",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad12": {
+  "key": "0e766dec6d7a",
+  "blurb": "Deep-fried breaded fish fillet served crispy with dipping sauce.",
+  "spicy": 0,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "fish katsu cutlet",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad13": {
+  "key": "7bee7eda05cd",
+  "blurb": "Extra portion of bite-sized cooked chicken cubes.",
+  "spicy": 0,
+  "allergens": [
+   "soy"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "chicken cubes cooked",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad14": {
+  "key": "c7543253fbfd",
+  "blurb": "Extra portion of tender cooked fish fillet pieces.",
+  "spicy": 0,
+  "allergens": [
+   "fish"
+  ],
+  "wikiTitle": "Fish fillet",
+  "photoQuery": "cooked fish fillet",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--ad15": {
+  "key": "8844cf8ba449",
+  "blurb": "Juicy chicken chop grilled savory with a slightly charred crust.",
+  "spicy": 0,
+  "allergens": [
+   "soy"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "grilled chicken chop",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--dr001": {
+  "key": "ea4cba7d4ee3",
+  "blurb": "Traditional hot Hainanese coffee roasted with butter, brewed smooth and served with milk.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Kopi (beverage)",
+  "photoQuery": "hot hainan coffee",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--dr002": {
+  "key": "4f06ff7cbe20",
+  "blurb": "Traditional Hainanese coffee roasted with butter, served sweet and chilled over ice with milk.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Kopi (beverage)",
+  "photoQuery": "iced hainan coffee",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--dr003": {
+  "key": "f60bc3c591db",
+  "blurb": "Hot brewed coffee infused with sweet aromatic pandan leaf syrup and milk.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Kopi (beverage)",
+  "photoQuery": "pandan coffee",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "kopitiam--dr004": {
+  "key": "90a9f8decbbf",
+  "blurb": "A refreshing iced coffee infused with the fragrant, sweet aroma of pandan leaves.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Iced coffee",
+  "photoQuery": "iced pandan coffee",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr005": {
+  "key": "c0087a895d2c",
+  "blurb": "A visually striking iced coffee drink layered with evaporated milk and palm sugar syrup.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Teh C special",
+  "photoQuery": "three layer coffee",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr006": {
+  "key": "04efee29808a",
+  "blurb": "A cooling iced coffee drink mixed with chewy, herbal cincau, which is grass jelly.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Grass jelly",
+  "photoQuery": "cincau coffee",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr007": {
+  "key": "d3af7620dc01",
+  "blurb": "A strong, traditional black coffee served hot without any added milk.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Kopi O",
+  "photoQuery": "hot black coffee kopi o",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr008": {
+  "key": "c17027d0b3fc",
+  "blurb": "A chilled, strong black coffee served without milk, perfect for a quick caffeine boost.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Kopi O",
+  "photoQuery": "iced black coffee kopi o",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr009": {
+  "key": "8ff1bde4c169",
+  "blurb": "A refreshing iced black coffee with a zesty twist of fresh lemon.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Kopi O",
+  "photoQuery": "iced coffee lemon",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr010": {
+  "key": "e9f89dc4c7e1",
+  "blurb": "A classic, robust hand-brewed tea served hot, typically prepared with condensed milk.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Teh tarik",
+  "photoQuery": "hot milk tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr011": {
+  "key": "1a3eb8f7fc77",
+  "blurb": "A chilled, robust hand-brewed tea, usually served with a creamy milk base.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Teh tarik",
+  "photoQuery": "iced milk tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr012": {
+  "key": "41c22d81a334",
+  "blurb": "A smooth and creamy hot milk tea, a staple comfort drink in Malaysian cafes.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Milk tea",
+  "photoQuery": "hot milk tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr013": {
+  "key": "241674031162",
+  "blurb": "A refreshing and creamy iced milk tea, perfect for cooling down in the heat.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Milk tea",
+  "photoQuery": "iced milk tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr014": {
+  "key": "2ee5aa7fb114",
+  "blurb": "A simple, clear hot black tea served without milk.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Tea",
+  "photoQuery": "hot black tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr015": {
+  "key": "1961334e0c3c",
+  "blurb": "A simple, chilled black tea served without milk for a clean, refreshing taste.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Iced tea",
+  "photoQuery": "iced black tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr016": {
+  "key": "26a719ab0569",
+  "blurb": "A soothing hot tea infused with fresh lemon slices.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Lemon tea",
+  "photoQuery": "hot lemon tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr017": {
+  "key": "54a1dfd7b89c",
+  "blurb": "A classic iced tea drink with a bright, citrusy lemon flavor.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Lemon tea",
+  "photoQuery": "iced lemon tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr018": {
+  "key": "bc9f4f69cf7e",
+  "blurb": "A sweet milk tea served cold, featuring soft and earthy red bean paste.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Bubble tea",
+  "photoQuery": "red bean milk tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr019": {
+  "key": "a66cbe2406a9",
+  "blurb": "A popular iced milk tea served with chewy, dark tapioca pearls.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Bubble tea",
+  "photoQuery": "pearl milk tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr020": {
+  "key": "96fd268ab1f4",
+  "blurb": "A creamy iced milk tea served with chewy, translucent white agar pearls.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Bubble tea",
+  "photoQuery": "white pearl milk tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr021": {
+  "key": "df613c3ae786",
+  "blurb": "A signature iced milk tea with distinct layers of tea, milk, and palm sugar syrup.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Teh C special",
+  "photoQuery": "three layer milk tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr022": {
+  "key": "1ddec052f4c7",
+  "blurb": "A creamy iced milk tea mixed with refreshing, jelly-like cincau grass jelly.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Grass jelly",
+  "photoQuery": "cincau milk tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr023": {
+  "key": "c2e2c6b893f5",
+  "blurb": "A comforting hot tea sweetened with honey and brightened with lemon.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Lemon tea",
+  "photoQuery": "hot honey lemon tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr024": {
+  "key": "d94bc2173253",
+  "blurb": "A chilled, sweet, and tangy tea drink made with honey and fresh lemon.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Lemon tea",
+  "photoQuery": "iced honey lemon tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr025": {
+  "key": "e616b1356c22",
+  "blurb": "A light and fragrant iced green tea with subtle jasmine floral notes.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Jasmine tea",
+  "photoQuery": "iced jasmine green tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr026": {
+  "key": "4b44a694b240",
+  "blurb": "A refreshing iced jasmine green tea with a sharp, zesty lemon kick.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Jasmine tea",
+  "photoQuery": "iced lemon jasmine tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr027": {
+  "key": "2603eaa794ac",
+  "blurb": "A fruity iced tea with sweet peach flavor and chewy agar jelly pearls.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Fruit tea",
+  "photoQuery": "peach fruit tea agar",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr028": {
+  "key": "a3a1b1f7382e",
+  "blurb": "A tropical iced tea featuring sweet mango flavor and chewy agar jelly pearls.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Fruit tea",
+  "photoQuery": "mango fruit tea agar",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr029": {
+  "key": "02a226866c5c",
+  "blurb": "A tangy iced tea with passion fruit pulp and chewy agar jelly pearls.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Fruit tea",
+  "photoQuery": "passion fruit tea agar",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr030": {
+  "key": "526fc8a39b41",
+  "blurb": "A thick, blended mango smoothie served with chewy agar jelly pearls.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Smoothie",
+  "photoQuery": "mango smoothie agar",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr031": {
+  "key": "8ebfd922ee27",
+  "blurb": "A fizzy, carbonated drink with a sweet and refreshing mango flavor.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Carbonated water",
+  "photoQuery": "mango sparkling drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr032": {
+  "key": "be57d78716bf",
+  "blurb": "A thick, blended passion fruit smoothie served with chewy agar jelly pearls.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Smoothie",
+  "photoQuery": "passion fruit smoothie agar",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr033": {
+  "key": "40287081baa4",
+  "blurb": "A fizzy, carbonated drink with a tangy and refreshing passion fruit flavor.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Carbonated water",
+  "photoQuery": "passion fruit sparkling drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr034": {
+  "key": "5c650e9bcce2",
+  "blurb": "A refreshing blended pineapple smoothie served with chewy agar jelly pearls.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Smoothie",
+  "photoQuery": "pineapple smoothie agar pearl",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr035": {
+  "key": "1f32e289965f",
+  "blurb": "A fizzy and sweet carbonated drink flavored with pineapple.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "",
+  "photoQuery": "pineapple sparkling drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr036": {
+  "key": "9a68a0869cf1",
+  "blurb": "A sweet strawberry blended smoothie featuring chewy agar jelly pearls.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Smoothie",
+  "photoQuery": "strawberry smoothie agar pearl",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr037": {
+  "key": "39044f7a6f21",
+  "blurb": "A refreshing carbonated drink with a sweet strawberry flavor.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "",
+  "photoQuery": "strawberry sparkling drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr038": {
+  "key": "7a8e435e5945",
+  "blurb": "A creamy honey peach blended smoothie with chewy agar jelly pearls.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Smoothie",
+  "photoQuery": "peach smoothie agar pearl",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr039": {
+  "key": "aa40b024db4e",
+  "blurb": "A bubbly carbonated drink infused with sweet honey and peach flavors.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "",
+  "photoQuery": "peach sparkling drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr040": {
+  "key": "cbbed94a238b",
+  "blurb": "A classic hot chocolate malt drink popular in Malaysia.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Milo (drink)",
+  "photoQuery": "hot milo drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr041": {
+  "key": "46e14fabe729",
+  "blurb": "A chilled, refreshing version of the popular Malaysian chocolate malt drink.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Milo (drink)",
+  "photoQuery": "iced milo drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr042": {
+  "key": "0ee5f6c5f102",
+  "blurb": "A rich hot beverage combining coffee with chocolate malt drink.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "horkasai coffee milo",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr043": {
+  "key": "67397a352c6f",
+  "blurb": "A chilled, energizing mix of coffee and chocolate malt drink.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "iced horkasai coffee milo",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr044": {
+  "key": "4ebe4868bca5",
+  "blurb": "A simple and comforting hot chocolate drink.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Hot chocolate",
+  "photoQuery": "hot chocolate drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr045": {
+  "key": "f26d0e4e71c0",
+  "blurb": "A chilled, sweet chocolate drink served over ice.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Chocolate milk",
+  "photoQuery": "iced chocolate drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr046": {
+  "key": "85907bb0bcf8",
+  "blurb": "A Hong Kong-style cold drink featuring sweetened red beans and milk.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Red bean ice",
+  "photoQuery": "hong kong red bean ice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr047": {
+  "key": "64ecc3f676cc",
+  "blurb": "A simple, tart, and refreshing cold lemonade.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Lemonade",
+  "photoQuery": "fresh iced lemonade",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr048": {
+  "key": "898248e1e2d6",
+  "blurb": "A soothing hot drink made with honey and fresh lemon juice.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Lemonade",
+  "photoQuery": "hot honey lemon",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr049": {
+  "key": "cd33cdb04ca4",
+  "blurb": "A refreshing cold drink made with honey and fresh lemon juice.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Lemonade",
+  "photoQuery": "iced honey lemon",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr050": {
+  "key": "d6bf4e73af9a",
+  "blurb": "A smooth and nutritious chilled soy milk drink.",
+  "spicy": 0,
+  "allergens": [
+   "soy"
+  ],
+  "wikiTitle": "Soy milk",
+  "photoQuery": "iced soy milk",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr051": {
+  "key": "c5c4ed755e51",
+  "blurb": "Chilled soy milk served with Cincau, a dark herbal grass jelly.",
+  "spicy": 0,
+  "allergens": [
+   "soy"
+  ],
+  "wikiTitle": "Grass jelly",
+  "photoQuery": "soy milk cincau",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr052": {
+  "key": "3d67c068d56a",
+  "blurb": "A sweet drink featuring longan fruit and herbal grass jelly.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Grass jelly",
+  "photoQuery": "longan cincau drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr053": {
+  "key": "116a2fe531c4",
+  "blurb": "A sweet, bright pink rose-flavored syrup drink served over ice.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Sirap",
+  "photoQuery": "iced sirap drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr054": {
+  "key": "0d9480a56488",
+  "blurb": "A sweet rose-flavored syrup drink with a tangy splash of lemon.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Sirap",
+  "photoQuery": "sirap lemon drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr055": {
+  "key": "43be0e5cf6ae",
+  "blurb": "A sweet rose-flavored syrup drink served with longan fruit.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Sirap",
+  "photoQuery": "sirap longan drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr056": {
+  "key": "4cc42e7912ab",
+  "blurb": "A creamy rose-syrup milk drink served with herbal grass jelly.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Bandung (drink)",
+  "photoQuery": "sirap bandung cincau",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr057": {
+  "key": "37ae5a7a47f7",
+  "blurb": "A layered rose-syrup milk drink, visually striking and sweet.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Bandung (drink)",
+  "photoQuery": "three layer bandung",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr058": {
+  "key": "06e12e0a68e3",
+  "blurb": "A sweet, refreshing drink featuring longan fruit in syrup.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Longan",
+  "photoQuery": "iced longan juice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr059": {
+  "key": "36e78bbf2f47",
+  "blurb": "A sweet drink combining blackcurrant-flavored Ribena with longan fruit.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Ribena",
+  "photoQuery": "longan ribena drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "kopitiam--dr060": {
+  "key": "2e43afff788f",
+  "blurb": "A creamy, sweet milk drink served with longan fruit.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Longan",
+  "photoQuery": "longan milk drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ap01": {
+  "key": "6e07de7eb96a",
+  "blurb": "A savory combination of deep-fried cauliflower and eggplant, often served with a tahini-based sauce.",
+  "spicy": 0,
+  "allergens": [
+   "sesame"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "fried cauliflower eggplant",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ap02": {
+  "key": "e0cba9c3ad09",
+  "blurb": "Crispy deep-fried cauliflower florets that are tender on the inside.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "",
+  "photoQuery": "fried cauliflower",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ap03": {
+  "key": "68fc27f1772b",
+  "blurb": "Slices of eggplant fried until golden and soft.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "",
+  "photoQuery": "fried eggplant",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ap04": {
+  "key": "56de44be588a",
+  "blurb": "Sautéed mushrooms infused with garlic, served with warm flatbread for dipping.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "garlic mushrooms bread",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ap05": {
+  "key": "2171fd86789c",
+  "blurb": "Tender chicken served with hummus, a creamy dip made from mashed chickpeas and tahini.",
+  "spicy": 0,
+  "allergens": [
+   "sesame",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Hummus",
+  "photoQuery": "chicken hummus bread",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ap06": {
+  "key": "2b97415381cd",
+  "blurb": "Crispy, savory balls made from ground chickpeas and spices, served with fresh vegetables.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Falafel",
+  "photoQuery": "falafel balls",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ap07": {
+  "key": "683196620663",
+  "blurb": "Delicate grape leaves rolled with a savory filling, typically rice and herbs.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Dolma",
+  "photoQuery": "wara enab",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ap08": {
+  "key": "e8e44d5792e7",
+  "blurb": "A hearty stew of cooked fava beans seasoned with spices, served with bread.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Ful medames",
+  "photoQuery": "foul medames bread",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ap09": {
+  "key": "221a8b518ac6",
+  "blurb": "A smooth, creamy dip made of chickpeas and tahini, served with warm bread.",
+  "spicy": 0,
+  "allergens": [
+   "sesame",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Hummus",
+  "photoQuery": "hummus bread",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw01": {
+  "key": "2ba968be4d66",
+  "blurb": "Thinly sliced, marinated chicken roasted on a spit and wrapped in soft Lebanese bread.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Shawarma",
+  "photoQuery": "chicken shawarma wrap",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw02": {
+  "key": "01872e487f86",
+  "blurb": "A larger portion of roasted chicken shawarma wrapped in soft Lebanese bread.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Shawarma",
+  "photoQuery": "chicken shawarma wrap",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw03": {
+  "key": "9969abc24f82",
+  "blurb": "Savory roasted chicken shawarma melted with cheese inside a wrap.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Shawarma",
+  "photoQuery": "chicken shawarma cheese",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw04": {
+  "key": "81b587539961",
+  "blurb": "Roasted chicken shawarma served in a crusty French bread roll with crispy fries.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Shawarma",
+  "photoQuery": "chicken shawarma french bread",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw05": {
+  "key": "7c95daec1dc4",
+  "blurb": "A sandwich featuring seasoned beef meatballs.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "beef meatball sandwich",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw06": {
+  "key": "33db294362a5",
+  "blurb": "Tender liver sautéed with olive oil and spices for a bold, savory flavor.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "spicy liver sandwich",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw07": {
+  "key": "bf3a5904cb23",
+  "blurb": "A toasted pita bread sandwich stuffed with savory spiced chicken and melted cheese.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Arayes",
+  "photoQuery": "arayes chicken cheese",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw08": {
+  "key": "bd128975a38a",
+  "blurb": "A toasted pita bread sandwich filled with seasoned minced lamb and melted cheese.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Arayes",
+  "photoQuery": "arayes lamb cheese",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw09": {
+  "key": "18ed05c7da95",
+  "blurb": "A toasted pita bread sandwich filled with earthy mushrooms and melted cheese.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Arayes",
+  "photoQuery": "arayes mushroom cheese",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw10": {
+  "key": "f3a710a14a72",
+  "blurb": "A sandwich featuring a crispy, breaded chicken fillet.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "crispy chicken sandwich",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw11": {
+  "key": "212d90d8bb0c",
+  "blurb": "A crispy breaded chicken fillet sandwich topped with melted cheese.",
+  "spicy": 0,
+  "allergens": [
+   "milk",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "crispy chicken cheese sandwich",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw12": {
+  "key": "ced65d3f3135",
+  "blurb": "A medium-sized wrap filled with crispy falafel balls and fresh vegetables.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Falafel",
+  "photoQuery": "falafel sandwich",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw13": {
+  "key": "dcac1a1f8b81",
+  "blurb": "A large-sized wrap filled with crispy falafel balls and fresh vegetables.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Falafel",
+  "photoQuery": "falafel sandwich",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw14": {
+  "key": "5b8ea5c75aba",
+  "blurb": "Chicken strips stir-fried with peppers and onions, topped with cheese in a sandwich.",
+  "spicy": 1,
+  "allergens": [
+   "milk",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fajita",
+  "photoQuery": "chicken fajita sandwich",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw15": {
+  "key": "1ef9d155ce86",
+  "blurb": "Beef strips stir-fried with peppers and onions, topped with cheese in a sandwich.",
+  "spicy": 1,
+  "allergens": [
+   "milk",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fajita",
+  "photoQuery": "beef fajita sandwich",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sw16": {
+  "key": "c65730d5add0",
+  "blurb": "A sandwich featuring processed chicken luncheon meat and a fried egg.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "chicken luncheon egg sandwich",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ma01": {
+  "key": "829d65d602ca",
+  "blurb": "A fragrant Middle Eastern rice dish cooked with aromatic spices and tender chicken.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Mandi (food)",
+  "photoQuery": "chicken mandi rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ma02": {
+  "key": "e1df2d3516bd",
+  "blurb": "A fragrant Middle Eastern rice dish cooked with aromatic spices and tender lamb.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Mandi (food)",
+  "photoQuery": "lamb mandi rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ma03": {
+  "key": "a6b0a4481063",
+  "blurb": "Spiced mandi rice served with savory roasted chicken shawarma slices.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Mandi (food)",
+  "photoQuery": "shawarma mandi rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ma04": {
+  "key": "dac2be519b63",
+  "blurb": "Chicken sautéed with bell peppers, served over a bed of fluffy rice.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "",
+  "photoQuery": "chicken capsicum rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ma05": {
+  "key": "450123f26030",
+  "blurb": "An upside-down dish of rice, vegetables, and chicken, flipped onto a plate before serving.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Maqluba",
+  "photoQuery": "makhlouba chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ma06": {
+  "key": "390ab476c1c0",
+  "blurb": "Maqluba is a savory upside-down rice dish cooked with tender lamb, vegetables, and aromatic spices.",
+  "spicy": 1,
+  "allergens": [],
+  "wikiTitle": "Maqluba",
+  "photoQuery": "lamb maqluba rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ma07": {
+  "key": "d3d3dd42e005",
+  "blurb": "Savory beef meatballs served with a side of fluffy, seasoned rice.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Meatball",
+  "photoQuery": "beef meatballs with rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--ma08": {
+  "key": "0132e10ac7b5",
+  "blurb": "Thinly sliced rotisserie chicken served with crispy fries and fresh vegetables on a platter.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Shawarma",
+  "photoQuery": "chicken shawarma platter",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sa01": {
+  "key": "7c7e326218e6",
+  "blurb": "A refreshing salad topped with tender, flame-grilled chicken pieces.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Chicken salad",
+  "photoQuery": "grilled chicken salad",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sa02": {
+  "key": "54b543205a04",
+  "blurb": "A crisp salad base topped with savory, seasoned rotisserie chicken slices.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Shawarma",
+  "photoQuery": "chicken shawarma salad",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--sa03": {
+  "key": "6e3ac95f25ed",
+  "blurb": "A fresh, crunchy mix of diced vegetables typically dressed with olive oil and lemon juice.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Arab salad",
+  "photoQuery": "arabic vegetable salad",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--si01": {
+  "key": "34d18cda402d",
+  "blurb": "Fragrant and spiced long-grain rice cooked in a traditional Yemeni style.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Mandi (food)",
+  "photoQuery": "mandi rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--si02": {
+  "key": "80b91a94dd7e",
+  "blurb": "A side portion of spiced, layered rice dish cooked with vegetables and meat broth.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Maqluba",
+  "photoQuery": "maqluba rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--si03": {
+  "key": "726ec48b47be",
+  "blurb": "Classic deep-fried potato strips, crispy on the outside and soft inside.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "French fries",
+  "photoQuery": "french fries",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--si04": {
+  "key": "21e04abdabda",
+  "blurb": "Sweet, fried dough pastry sticks often dusted with sugar or cinnamon.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "milk"
+  ],
+  "wikiTitle": "Churros",
+  "photoQuery": "churros",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--de01": {
+  "key": "c534014a2f44",
+  "blurb": "A thick, chewy cookie loaded with generous amounts of chocolate chips.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "milk",
+   "soy"
+  ],
+  "wikiTitle": "Chocolate chip cookie",
+  "photoQuery": "new york style cookie",
+  "estPrice": 7,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--dr01": {
+  "key": "c1ff3cb5c85b",
+  "blurb": "Chilled carbonated soft drinks to quench your thirst.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Soft drink",
+  "photoQuery": "carbonated soft drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--dr02": {
+  "key": "4136bf513ed7",
+  "blurb": "Plain, refreshing bottled mineral water.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Bottled water",
+  "photoQuery": "mineral water bottle",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--dr03": {
+  "key": "6dd62e57410a",
+  "blurb": "A thick, refreshing blended drink made from a variety of fresh berries.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Smoothie",
+  "photoQuery": "mixed berries drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "shawarma--dr04": {
+  "key": "58cd9424f810",
+  "blurb": "A classic, tangy, and sweet citrus drink made from fresh lemons.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Lemonade",
+  "photoQuery": "fresh lemonade",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n01": {
+  "key": "41446280b75a",
+  "blurb": "A rich, spicy noodle soup with a tangy fish-based broth and fresh herbs.",
+  "spicy": 3,
+  "allergens": [
+   "fish",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Laksa",
+  "photoQuery": "laksa noodle soup",
+  "estPrice": 8.5,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n02": {
+  "key": "8ac2f12c7a46",
+  "blurb": "A flavorful noodle soup made with a rich prawn-based broth, topped with shrimp and bean sprouts.",
+  "spicy": 2,
+  "allergens": [
+   "shellfish",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Prawn noodle",
+  "photoQuery": "Penang prawn noodle",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n03": {
+  "key": "82552affa0e7",
+  "blurb": "A comforting, fragrant chicken soup served with rice vermicelli, often garnished with crispy shallots.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Soto ayam",
+  "photoQuery": "soto ayam",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n04": {
+  "key": "2bbcccdfba7c",
+  "blurb": "Yellow noodles served in a thick, sweet and spicy gravy made from sweet potatoes and spices.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Mee Jawa",
+  "photoQuery": "mee jawa",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n05": {
+  "key": "cab1384a5283",
+  "blurb": "Instant noodles stir-fried with soy sauce, chili, vegetables, and often egg or meat.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Maggi goreng",
+  "photoQuery": "maggi goreng",
+  "estPrice": 6,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n06": {
+  "key": "847b47a0ed63",
+  "blurb": "A hot and sour Thai-inspired soup served in a claypot, packed with aromatic herbs and chili.",
+  "spicy": 4,
+  "allergens": [
+   "fish",
+   "shellfish",
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Tom yum",
+  "photoQuery": "claypot tom yum",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n07": {
+  "key": "0685b7a63ce5",
+  "blurb": "Crispy fried egg noodles cooked in a claypot with a savory gravy and various toppings.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Yee mee",
+  "photoQuery": "claypot yee mee",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n08": {
+  "key": "7a3f775bc6fc",
+  "blurb": "Smooth egg noodles served in a savory, light soy-based sauce with vegetables and meat.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Cantonese chow mein",
+  "photoQuery": "cantonese style noodles",
+  "estPrice": 8.5,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n09": {
+  "key": "62e2238f2807",
+  "blurb": "A simple and classic instant chicken-flavored noodle soup.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Instant noodle",
+  "photoQuery": "nissin chicken noodle soup",
+  "estPrice": 6,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n10": {
+  "key": "6f1c138ee0a3",
+  "blurb": "Hand-pulled flat flour noodles served dry with a spicy chili mixture, minced meat, and anchovies.",
+  "spicy": 4,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Pan mee",
+  "photoQuery": "dried chilli pan mee",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n11": {
+  "key": "b91e65df0a40",
+  "blurb": "Popular instant fried noodles served with seasoned chicken and a fried egg.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Indomie",
+  "photoQuery": "indomie with egg and chicken",
+  "estPrice": 8.5,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n12": {
+  "key": "e155a6c3092a",
+  "blurb": "Japanese wheat noodles in a savory broth flavored with fermented soybean paste.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Miso ramen",
+  "photoQuery": "miso ramen chicken",
+  "estPrice": 10.5,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n13": {
+  "key": "0dd88eb03461",
+  "blurb": "Flat rice noodles stir-fried over high heat with soy sauce, chili, egg, and bean sprouts.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg",
+   "shellfish"
+  ],
+  "wikiTitle": "Char kway teow",
+  "photoQuery": "Penang fried koay teow",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n14": {
+  "key": "71963677432c",
+  "blurb": "Thin rice vermicelli stir-fried with soy sauce, vegetables, and seasonings.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Rice vermicelli",
+  "photoQuery": "fried mihun",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n15": {
+  "key": "3fd097884c7a",
+  "blurb": "Stir-fried noodles prepared with various vegetables and soy sauce, without meat.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Chow mein",
+  "photoQuery": "vegetarian fried noodles",
+  "estPrice": 7,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n16": {
+  "key": "fc5570982516",
+  "blurb": "A tangy, spicy noodle soup made with a mackerel-based broth and tamarind for a sour kick.",
+  "spicy": 4,
+  "allergens": [
+   "fish",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Asam laksa",
+  "photoQuery": "assam laksa",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n17": {
+  "key": "6ea9fef2004b",
+  "blurb": "Crispy fried noodles served on a hot sizzling plate with a thick, savory egg gravy.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Yee mee",
+  "photoQuery": "sizzling yee mee",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n18": {
+  "key": "ab2048d91787",
+  "blurb": "Instant noodles cooked in a claypot with broth, egg, and vegetables for a comforting meal.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Instant noodle",
+  "photoQuery": "claypot maggie",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n19": {
+  "key": "fc62ed5a13e5",
+  "blurb": "Japanese noodles served in a savory broth seasoned with soy sauce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Ramen",
+  "photoQuery": "shoyu ramen",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_n20": {
+  "key": "d859838029cd",
+  "blurb": "Noodles served in a sweet, pink-colored gravy made from sweet potatoes and spices.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Mee bandung",
+  "photoQuery": "mee bandung",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r01": {
+  "key": "1680c415411c",
+  "blurb": "Classic fried rice stir-fried with chicken, soy sauce, and aromatics.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "nasi goreng ayam",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r02": {
+  "key": "a1a57d96cdde",
+  "blurb": "Traditional village-style fried rice, typically spicy with anchovies and bird's eye chili.",
+  "spicy": 3,
+  "allergens": [
+   "soy",
+   "fish",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Nasi goreng kampung",
+  "photoQuery": "nasi goreng kampung",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r03": {
+  "key": "93e24ba7b558",
+  "blurb": "Fried rice wrapped inside a thin, folded egg omelet, usually served with chili sauce.",
+  "spicy": 2,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Nasi goreng Pattaya",
+  "photoQuery": "nasi goreng pattaya",
+  "estPrice": 9,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r04": {
+  "key": "81437dd547dd",
+  "blurb": "A local variation of fried rice often featuring a mix of meats and a sweet-savory sauce.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "USA style fried rice",
+  "estPrice": 9,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r05": {
+  "key": "bcf237fa5f0c",
+  "blurb": "Fried rice stir-fried with tangy, spicy fermented kimchi and often topped with an egg.",
+  "spicy": 3,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Kimchi fried rice",
+  "photoQuery": "korean kimchi fried rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r06": {
+  "key": "e8b5a1081de8",
+  "blurb": "Tender chicken pieces glazed in a savory-sweet sesame sauce, served over steamed rice.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "sesame"
+  ],
+  "wikiTitle": "Sesame chicken",
+  "photoQuery": "sesame chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r07": {
+  "key": "e8b0da4ff540",
+  "blurb": "Crispy chicken pieces tossed in a tangy, sweet and sour sauce with bell peppers and onions.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Sweet and sour chicken",
+  "photoQuery": "sweet and sour chicken",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r08": {
+  "key": "a217be710463",
+  "blurb": "Chicken stir-fried with a bold, peppery sauce that provides a mild, spicy kick.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Black pepper chicken",
+  "photoQuery": "black pepper chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r09": {
+  "key": "a2f819de1cb6",
+  "blurb": "Chicken prepared with Thai-inspired herbs and spices, offering a balance of sweet and spicy.",
+  "spicy": 3,
+  "allergens": [
+   "soy",
+   "fish",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Thai cuisine",
+  "photoQuery": "thai style chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r10": {
+  "key": "3ab998500667",
+  "blurb": "Smashed fried chicken served with rice, fresh vegetables, and a very spicy chili sambal.",
+  "spicy": 4,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Ayam penyet",
+  "photoQuery": "nasi ayam penyet",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r11": {
+  "key": "99bb7fec4d16",
+  "blurb": "A simple, savory stir-fried rice dish cooked with mixed vegetables and soy sauce.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "vegetarian fried rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r12": {
+  "key": "df27fe317ff0",
+  "blurb": "A fragrant, sour, and spicy Thai soup served with rice, known for its bold herbal flavors.",
+  "spicy": 3,
+  "allergens": [
+   "fish"
+  ],
+  "wikiTitle": "Tom yum",
+  "photoQuery": "tom yam soup rice",
+  "estPrice": 8.5,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r13": {
+  "key": "9c954bf8ca1c",
+  "blurb": "Fried rice stir-fried with chicken in a spicy, aromatic Thai-inspired red chili sauce.",
+  "spicy": 3,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "nasi goreng paprik",
+  "estPrice": 9,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r14": {
+  "key": "9b86034f023c",
+  "blurb": "Steamed white rice served with a side of chicken cooked in a spicy, aromatic Thai red sauce.",
+  "spicy": 3,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Thai cuisine",
+  "photoQuery": "nasi putih ayam paprik",
+  "estPrice": 9,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r15": {
+  "key": "2dcdb19309c4",
+  "blurb": "A classic dish of steamed or roasted chicken served with seasoned rice and chili sauce.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Hainanese chicken rice",
+  "photoQuery": "chicken rice",
+  "estPrice": 8.5,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r16": {
+  "key": "a75fc6bbe1b9",
+  "blurb": "Fragrant coconut rice served with peanuts, anchovies, and spiced, crispy fried chicken.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "fish"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak ayam goreng",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r17": {
+  "key": "b2ce3195af96",
+  "blurb": "Coconut-infused rice served with tender squid cooked in a spicy, savory chili sambal.",
+  "spicy": 4,
+  "allergens": [
+   "peanuts",
+   "fish",
+   "shellfish"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak sambal sotong",
+  "estPrice": 9,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r18": {
+  "key": "b52606bddb10",
+  "blurb": "Coconut rice served with rich, slow-cooked chicken rendang, a dry curry with coconut and spices.",
+  "spicy": 2,
+  "allergens": [
+   "peanuts",
+   "fish"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak rendang chicken",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r19": {
+  "key": "364ddb3e9f1a",
+  "blurb": "A fragrant, spiced rice dish layered with tender meat, herbs, and aromatic spices.",
+  "spicy": 2,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Biryani",
+  "photoQuery": "briyani rice set",
+  "estPrice": 9,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r20": {
+  "key": "9b6db225d68e",
+  "blurb": "A festive Malaysian rice dish cooked with colorful spices and often served at celebrations.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Nasi hujan panas",
+  "photoQuery": "nasi hujan panas",
+  "estPrice": 8.5,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r21": {
+  "key": "56c57d0c5737",
+  "blurb": "A traditional Minangkabau meal featuring steamed rice served with various spicy side dishes.",
+  "spicy": 3,
+  "allergens": [
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Nasi Padang",
+  "photoQuery": "nasi padang",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r22": {
+  "key": "a23304cf64cd",
+  "blurb": "Fragrant rice cooked with tomato paste and spices, typically served with meat and vegetables.",
+  "spicy": 1,
+  "allergens": [],
+  "wikiTitle": "Nasi tomato",
+  "photoQuery": "nasi tomato",
+  "estPrice": 8.5,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r23": {
+  "key": "caf57cd390ae",
+  "blurb": "A hearty Padang-style rice dish served with a variety of pre-cooked meat and vegetable sides.",
+  "spicy": 3,
+  "allergens": [
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Nasi Padang",
+  "photoQuery": "nasi padang berlauk",
+  "estPrice": 9,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r24": {
+  "key": "c753a4fe38bb",
+  "blurb": "A traditional Javanese feast featuring rice served with a variety of side dishes on one plate.",
+  "spicy": 2,
+  "allergens": [
+   "peanuts",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Nasi ambeng",
+  "photoQuery": "nasi ambeng",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r25": {
+  "key": "9cfa6a026f78",
+  "blurb": "Grilled chicken glazed in a sweet and savory soy-based teriyaki sauce, served with rice.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "sesame"
+  ],
+  "wikiTitle": "Teriyaki",
+  "photoQuery": "chicken teriyaki bento",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r26": {
+  "key": "011697243c65",
+  "blurb": "Japanese-style crispy fried chicken served with rice and side dishes in a bento box.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Karaage",
+  "photoQuery": "chicken karaage bento",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r27": {
+  "key": "fe488ac90688",
+  "blurb": "Simple, comforting steamed rice served with tender chicken and a light soy-based sauce.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Hainanese chicken rice",
+  "photoQuery": "chicken rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r28": {
+  "key": "47a164955a2d",
+  "blurb": "Steamed rice served with a flavorful, creamy chicken curry cooked with traditional spices.",
+  "spicy": 2,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Chicken curry",
+  "photoQuery": "chicken curry rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r29": {
+  "key": "a0c3b3bb7296",
+  "blurb": "Tomato-infused rice served with chicken cooked in a rich, slightly spicy red chili sauce.",
+  "spicy": 3,
+  "allergens": [
+   "soy"
+  ],
+  "wikiTitle": "Nasi tomato",
+  "photoQuery": "nasi tomato ayam masak merah",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_r30": {
+  "key": "5331388b94be",
+  "blurb": "Aromatic biryani rice served with chicken in a savory, mildly spicy red tomato-based sauce.",
+  "spicy": 3,
+  "allergens": [
+   "milk",
+   "soy"
+  ],
+  "wikiTitle": "Biryani",
+  "photoQuery": "nasi briyani ayam masak merah",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_b01": {
+  "key": "b80fd1999e15",
+  "blurb": "Toasted Hainanese bread with kaya (coconut jam) and butter, served with soft-boiled eggs.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "milk"
+  ],
+  "wikiTitle": "Kaya toast",
+  "photoQuery": "hailam bread half boiled egg",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_m01": {
+  "key": "8b0ca8b02b87",
+  "blurb": "Fragrant rice cooked with coconut milk, served with traditional accompaniments like sambal.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "fish"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_m02": {
+  "key": "d4fe1c8acfda",
+  "blurb": "A balanced meal of steamed rice, a piece of fried chicken, and one portion of vegetables.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Economy rice",
+  "photoQuery": "rice fried chicken vegetable",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_m03": {
+  "key": "d248631192e4",
+  "blurb": "A hearty meal of steamed rice, a piece of fried chicken, and two portions of vegetables.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Economy rice",
+  "photoQuery": "rice fried chicken vegetable",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_m04": {
+  "key": "9c780748504b",
+  "blurb": "Crispy, golden-brown fried chicken seasoned with local spices.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fried chicken",
+  "photoQuery": "malaysian fried chicken",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_m05": {
+  "key": "de30be6cdeb9",
+  "blurb": "Tender chicken pieces slow-cooked in a thick, fragrant, and spicy coconut milk reduction.",
+  "spicy": 3,
+  "allergens": [
+   "fish"
+  ],
+  "wikiTitle": "Rendang",
+  "photoQuery": "chicken rendang",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_m06": {
+  "key": "151a9958a8b7",
+  "blurb": "Chicken pieces cooked in a vibrant, slightly spicy, and tangy red tomato-based sauce.",
+  "spicy": 3,
+  "allergens": [
+   "soy"
+  ],
+  "wikiTitle": "Ayam masak merah",
+  "photoQuery": "chicken masak merah",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_m07": {
+  "key": "e94a4677abb4",
+  "blurb": "Chicken pieces simmered in a rich, aromatic curry sauce made with coconut milk and spices.",
+  "spicy": 2,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Chicken curry",
+  "photoQuery": "curry chicken",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_m08": {
+  "key": "7526847e7848",
+  "blurb": "Squid stir-fried in a spicy, savory chili paste known as sambal.",
+  "spicy": 4,
+  "allergens": [
+   "shellfish",
+   "fish"
+  ],
+  "wikiTitle": "Sambal",
+  "photoQuery": "sotong sambal",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_m09": {
+  "key": "0b2af10e8b42",
+  "blurb": "A portion of fish prepared in a style typical of local economy rice stalls.",
+  "spicy": 1,
+  "allergens": [
+   "fish"
+  ],
+  "wikiTitle": "Fish as food",
+  "photoQuery": "fried fish",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--se_m10": {
+  "key": "cce35660ad3c",
+  "blurb": "Prawns cooked in a savory curry or sambal sauce, tender and rich.",
+  "spicy": 2,
+  "allergens": [
+   "shellfish"
+  ],
+  "wikiTitle": "Prawn",
+  "photoQuery": "malaysian curry prawns",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--se_m11": {
+  "key": "f51bf8c0f930",
+  "blurb": "A classic fried egg with a crispy edge and runny yolk.",
+  "spicy": 0,
+  "allergens": [
+   "egg"
+  ],
+  "wikiTitle": "Fried egg",
+  "photoQuery": "fried egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--se_m12": {
+  "key": "49fc5e0d3510",
+  "blurb": "Beancurd: soft soybean curd braised or stir-fried in a savory soy sauce.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Tofu",
+  "photoQuery": "braised tofu dish",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--se_m13": {
+  "key": "dfc4486c90ff",
+  "blurb": "Japanese style tauhu: silky egg tofu deep-fried until golden and tossed in savory soy sauce.",
+  "spicy": 1,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Tofu",
+  "photoQuery": "japanese egg tofu",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--se_m14": {
+  "key": "8122a13f7916",
+  "blurb": "Tempeh: fermented soybean cake fried until nutty, crispy, and savory.",
+  "spicy": 1,
+  "allergens": [
+   "soy"
+  ],
+  "wikiTitle": "Tempeh",
+  "photoQuery": "fried tempeh",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--se_m15": {
+  "key": "1f33307b72ae",
+  "blurb": "Potatoes cooked in a mild Malaysian curry or spice sauce.",
+  "spicy": 2,
+  "allergens": [],
+  "wikiTitle": "Potato",
+  "photoQuery": "malaysian curry potato",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--se_m16": {
+  "key": "64939811a32f",
+  "blurb": "Stir-fried seasonal leafy greens cooked with garlic and soy sauce.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Stir frying",
+  "photoQuery": "stir fried vegetables",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--se_m17": {
+  "key": "d5967de8b75b",
+  "blurb": "Steamed plain white rice, soft and fluffy.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "White rice",
+  "photoQuery": "steamed white rice",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk001": {
+  "key": "e760a88e8b76",
+  "blurb": "Roti canai: flaky, butter-brushed Indian-style flatbread served with curry dipping sauce.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Roti canai",
+  "photoQuery": "roti canai curry",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk002": {
+  "key": "a4da2f6b8d66",
+  "blurb": "Roti bawang: flaky Malaysian flatbread stuffed with chopped onions.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Roti canai",
+  "photoQuery": "roti bawang onion",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk003": {
+  "key": "4a163c611860",
+  "blurb": "Roti Planta: crispy, layered flatbread cooked with rich margarine and sugar.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Roti canai",
+  "photoQuery": "roti planta sugar",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk004": {
+  "key": "9a6e14335ed0",
+  "blurb": "Roti telur: classic flatbread stuffed with egg, pan-fried crisp and tender.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "milk"
+  ],
+  "wikiTitle": "Roti canai",
+  "photoQuery": "roti telur egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk005": {
+  "key": "db73083b141e",
+  "blurb": "Roti boom: thick, round, flaky sweet flatbread loaded with margarine and condensed milk.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Roti canai",
+  "photoQuery": "roti boom sweet",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk006": {
+  "key": "aa297a55cb4d",
+  "blurb": "Roti kaya: flaky flatbread stuffed with sweet coconut and egg jam.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "milk"
+  ],
+  "wikiTitle": "Roti canai",
+  "photoQuery": "roti kaya jam",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk007": {
+  "key": "5a354782fae0",
+  "blurb": "Roti pisang: crispy flatbread folded with sweet sliced bananas inside.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Roti canai",
+  "photoQuery": "roti pisang banana",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk008": {
+  "key": "9efbe6984826",
+  "blurb": "Roti cheese: warm flatbread stuffed with melted cheese inside.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Roti canai",
+  "photoQuery": "roti cheese flatbread",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk009": {
+  "key": "7e7df9b05e80",
+  "blurb": "Roti cheese tarik: crispy flatbread stuffed with extra gooey, stretchy mozzarella cheese.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Roti canai",
+  "photoQuery": "roti cheese tarik",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk010": {
+  "key": "8d444d562d26",
+  "blurb": "Roti telur bawang: flatbread stuffed with egg and diced red onions.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "milk"
+  ],
+  "wikiTitle": "Roti canai",
+  "photoQuery": "roti telur bawang",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk011": {
+  "key": "f2ec1ecca9db",
+  "blurb": "Roti sardin: savory flatbread stuffed with spiced canned sardines and sliced onions.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten",
+   "fish",
+   "milk"
+  ],
+  "wikiTitle": "Roti canai",
+  "photoQuery": "roti sardin fish",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk012": {
+  "key": "c56bc9ff896b",
+  "blurb": "Naan: soft, pillowy Indian flatbread baked fresh in a clay tandoor oven.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Naan",
+  "photoQuery": "plain naan bread",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk013": {
+  "key": "f90068540cec",
+  "blurb": "Naan cheese: soft tandoor-baked flatbread stuffed with gooey melted cheese.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Naan",
+  "photoQuery": "cheese naan bread",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk014": {
+  "key": "3986a56bb940",
+  "blurb": "Garlic naan: soft flatbread topped with minced garlic and brushed with melted butter.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Naan",
+  "photoQuery": "garlic naan bread",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk015": {
+  "key": "e2223d68f9c8",
+  "blurb": "Garlic cheese naan: tandoor-baked flatbread filled with cheese and topped with garlic.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Naan",
+  "photoQuery": "garlic cheese naan",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk016": {
+  "key": "dc695b5a22ef",
+  "blurb": "Mozzarella cheese naan: soft tandoor flatbread stuffed with rich, stretchy mozzarella.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Naan",
+  "photoQuery": "mozzarella cheese naan",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk017": {
+  "key": "a07638df9e55",
+  "blurb": "Tandoori ayam: chicken marinated in yogurt and spices, roasted juicy in a clay oven.",
+  "spicy": 2,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Tandoori chicken",
+  "photoQuery": "tandoori chicken",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk018": {
+  "key": "edfc8fe0a3c9",
+  "blurb": "Capati: thin, whole-wheat Indian flatbread cooked oil-free on a flat skillet.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Chapati",
+  "photoQuery": "chapati flatbread",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk019": {
+  "key": "dfe1554f5014",
+  "blurb": "Capati telur: warm whole-wheat flatbread cooked with a beaten egg.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Chapati",
+  "photoQuery": "chapati egg",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk020": {
+  "key": "0b97e7b6d68e",
+  "blurb": "Capati roll telur: whole-wheat flatbread rolled up around a seasoned fried egg.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Chapati",
+  "photoQuery": "egg chapati roll",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk021": {
+  "key": "b87fbf0fad0a",
+  "blurb": "Capati roll ayam: whole-wheat flatbread rolled around spiced tender chicken.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Chapati",
+  "photoQuery": "chicken chapati roll",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk022": {
+  "key": "d82037e4447d",
+  "blurb": "Capati daging: whole-wheat flatbread served with savory, spiced beef curry.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Chapati",
+  "photoQuery": "chapati beef curry",
+  "estPrice": null,
+  "model": "gemini-3.5-flash"
+ },
+ "asian--bk023": {
+  "key": "f34c03745644",
+  "blurb": "Fragrant rice served with chicken pieces stir-fried with aromatic turmeric and long beans.",
+  "spicy": 2,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "nasi ayam kunyit",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk024": {
+  "key": "fc936e1484d6",
+  "blurb": "Savory rice dish featuring tender meat stir-fried with turmeric, onions, and long beans.",
+  "spicy": 2,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "nasi daging kunyit",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk025": {
+  "key": "a4cff4127353",
+  "blurb": "A simple, protein-packed fried or boiled egg served as a side dish.",
+  "spicy": 0,
+  "allergens": [
+   "egg"
+  ],
+  "wikiTitle": "Egg",
+  "photoQuery": "fried egg",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk026": {
+  "key": "5ee240d20539",
+  "blurb": "A small fried snack, likely a local variation of a vegetable or meat fritter.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "begedil",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk027": {
+  "key": "20060db9989d",
+  "blurb": "Tender squid stir-fried with turmeric and aromatic spices, served over steamed rice.",
+  "spicy": 2,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "shellfish"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "nasi sotong kunyit",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk028": {
+  "key": "a99ae0f0c922",
+  "blurb": "A crispy fried vegetable dish, likely bitter gourd, seasoned with local spices.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "",
+  "photoQuery": "fried bitter gourd",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk029": {
+  "key": "1e1c69ad6182",
+  "blurb": "Fragrant coconut milk rice served with spicy sambal, peanuts, anchovies, and a hard-boiled egg.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "fish",
+   "egg"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak biasa",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk030": {
+  "key": "3901e086ddce",
+  "blurb": "Coconut rice paired with crispy fried chicken and traditional spicy sambal condiments.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "fish",
+   "egg",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak ayam goreng",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk031": {
+  "key": "3d4ee483591d",
+  "blurb": "Coconut rice served with chicken marinated in aromatic spices and deep-fried until crispy.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "fish",
+   "egg",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak ayam berempah",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk032": {
+  "key": "97024d4ea103",
+  "blurb": "Classic coconut rice served with fried fish and the signature spicy sambal sauce.",
+  "spicy": 3,
+  "allergens": [
+   "peanuts",
+   "fish",
+   "egg"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak ikan",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk033": {
+  "key": "f0e8ed84d351",
+  "blurb": "Coconut rice served with chicken cooked in a rich, spicy, and tangy red chili sauce.",
+  "spicy": 4,
+  "allergens": [
+   "peanuts",
+   "fish",
+   "egg"
+  ],
+  "wikiTitle": "Nasi lemak",
+  "photoQuery": "nasi lemak ayam masak merah",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk034": {
+  "key": "8af5a4fd1110",
+  "blurb": "Simple stir-fried rice with basic seasonings, vegetables, and a hint of soy sauce.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "nasi goreng biasa",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk035": {
+  "key": "53d4690c987f",
+  "blurb": "Mild, savory stir-fried rice prepared in a Chinese style with vegetables and light soy sauce.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "nasi goreng cina",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk036": {
+  "key": "3cbb76844d5a",
+  "blurb": "Stir-fried rice cooked with chicken pieces, vegetables, and savory seasonings.",
+  "spicy": 2,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "nasi goreng ayam",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk037": {
+  "key": "04127d3e1dfb",
+  "blurb": "Fried rice wrapped inside a thin, delicate omelette, often served with chili sauce.",
+  "spicy": 2,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Nasi goreng Pattaya",
+  "photoQuery": "nasi goreng pattaya",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk038": {
+  "key": "c89fb0165b95",
+  "blurb": "Hearty stir-fried rice tossed with tender meat slices, vegetables, and savory spices.",
+  "spicy": 2,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "nasi goreng daging",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk039": {
+  "key": "a8ce1145e20e",
+  "blurb": "Flavorful fried rice cooked with tender mutton, aromatic spices, and fresh vegetables.",
+  "spicy": 2,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "nasi goreng kambing",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk040": {
+  "key": "b69fd558e766",
+  "blurb": "Village-style fried rice featuring anchovies, bird's eye chili, and water spinach.",
+  "spicy": 3,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg",
+   "fish"
+  ],
+  "wikiTitle": "Nasi goreng kampung",
+  "photoQuery": "nasi goreng kampung",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk041": {
+  "key": "7ae41b407090",
+  "blurb": "A thin, crispy, and savory fermented rice and lentil crepe served with dipping sauces.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Dosa",
+  "photoQuery": "tosai",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk042": {
+  "key": "6aad96ed1322",
+  "blurb": "Fermented crepe cooked with finely chopped onions for a sweet and savory crunch.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Dosa",
+  "photoQuery": "onion dosa",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk043": {
+  "key": "5563e8e161c9",
+  "blurb": "A protein-rich fermented crepe spread with a layer of cooked egg.",
+  "spicy": 0,
+  "allergens": [
+   "egg"
+  ],
+  "wikiTitle": "Dosa",
+  "photoQuery": "egg dosa",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk044": {
+  "key": "cab2091d1a64",
+  "blurb": "A rich, golden-brown fermented crepe cooked with clarified butter (ghee) for extra flavor.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Dosa",
+  "photoQuery": "ghee dosa",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk045": {
+  "key": "f3b67930292d",
+  "blurb": "A savory fermented crepe filled with a spiced potato and vegetable mixture.",
+  "spicy": 1,
+  "allergens": [],
+  "wikiTitle": "Masala dosa",
+  "photoQuery": "masala dosa",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk046": {
+  "key": "1e30bdceb41e",
+  "blurb": "A savory fermented crepe topped with a delicious combination of egg and diced onions.",
+  "spicy": 0,
+  "allergens": [
+   "egg"
+  ],
+  "wikiTitle": "Dosa",
+  "photoQuery": "egg onion dosa",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk047": {
+  "key": "c59611db53f6",
+  "blurb": "A crispy, lacy crepe made from semolina, rice flour, and spices.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Dosa",
+  "photoQuery": "rava dosa",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk048": {
+  "key": "668537e563ac",
+  "blurb": "Deep-fried, fluffy wheat bread served with a savory and spicy potato curry.",
+  "spicy": 2,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Puri (food)",
+  "photoQuery": "puri masala",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk049": {
+  "key": "f70bf24dac80",
+  "blurb": "Soft, fluffy steamed cakes made from a fermented batter of rice and lentils.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Idli",
+  "photoQuery": "idli",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk050": {
+  "key": "b24007c8ae57",
+  "blurb": "A crispy, triangular fried pastry filled with spiced potatoes and peas.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Samosa",
+  "photoQuery": "samosa",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk051": {
+  "key": "3d9cd2696023",
+  "blurb": "A flaky, deep-fried pastry filled with savory curried potatoes and meat or vegetables.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Curry puff",
+  "photoQuery": "curry puff",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk052": {
+  "key": "c05c274afa0d",
+  "blurb": "A sweet, deep-fried ring of dough, typically soft and fluffy inside.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "milk"
+  ],
+  "wikiTitle": "Doughnut",
+  "photoQuery": "donut",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk053": {
+  "key": "6fd7cc47ba6f",
+  "blurb": "A crispy, deep-fried savory snack with a spiced filling, typically served as a quick bite.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Rissole",
+  "photoQuery": "risol snack",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk054": {
+  "key": "17fa0023b3e7",
+  "blurb": "Instant Maggi noodles stir-fried with vegetables and savory seasonings for a quick, spicy meal.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Maggi",
+  "photoQuery": "maggi goreng",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk055": {
+  "key": "cc4052ae0de9",
+  "blurb": "Stir-fried instant Maggi noodles tossed with tender chicken pieces and savory spices.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Maggi",
+  "photoQuery": "maggi goreng ayam",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk056": {
+  "key": "1f1655e36067",
+  "blurb": "A generous double portion of stir-fried instant Maggi noodles, perfect for a hearty appetite.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Maggi",
+  "photoQuery": "maggi goreng",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk057": {
+  "key": "8c69a21ac7bf",
+  "blurb": "Indomie instant noodles stir-fried with savory soy sauce and spices for a classic Malaysian favorite.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Indomie",
+  "photoQuery": "indomie goreng",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk058": {
+  "key": "5425fe7e218b",
+  "blurb": "A double serving of stir-fried Indomie noodles, offering a savory and satisfying quick meal.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Indomie",
+  "photoQuery": "indomie goreng",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk059": {
+  "key": "ddf9571bdd03",
+  "blurb": "Yellow noodles stir-fried in a spicy, savory sauce with potatoes, tofu, and bean sprouts.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Mee goreng mamak",
+  "photoQuery": "mee goreng mamak",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk060": {
+  "key": "23ac7d9380bc",
+  "blurb": "Classic stir-fried yellow noodles cooked with chicken, vegetables, and a savory, spicy sauce.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "fish"
+  ],
+  "wikiTitle": "Mee goreng",
+  "photoQuery": "mee goreng ayam",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk061": {
+  "key": "c6e5e3bbee3b",
+  "blurb": "Thin rice vermicelli stir-fried with soy sauce, egg, and vegetables for a light, savory dish.",
+  "spicy": 3,
+  "allergens": [
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Bee hoon",
+  "photoQuery": "fried mee hoon",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--bk062": {
+  "key": "a39d6c26dde2",
+  "blurb": "Stir-fried rice vermicelli cooked with chicken, egg, and savory seasonings.",
+  "spicy": 3,
+  "allergens": [
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Bee hoon",
+  "photoQuery": "fried mee hoon ayam",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr01": {
+  "key": "354c2f3edc49",
+  "blurb": "A refreshing, fizzy mango-flavored energy drink powder mixed with water.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "",
+  "photoQuery": "Extra Joss mango drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr02": {
+  "key": "466daf0eceb4",
+  "blurb": "A fizzy grape-flavored energy drink powder that provides a quick caffeine boost.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "",
+  "photoQuery": "Extra Joss grape drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr03": {
+  "key": "3615cbcdf478",
+  "blurb": "A pineapple-flavored effervescent energy drink powder mixed with cold water.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "",
+  "photoQuery": "Extra Joss pineapple drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr04": {
+  "key": "1fecc836f99b",
+  "blurb": "A sweet and fruity mango-flavored cordial drink served over ice.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Cordial (drink)",
+  "photoQuery": "Sunquick mango drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr05": {
+  "key": "aa3804d6aeec",
+  "blurb": "A classic orange-flavored cordial drink that is sweet, tangy, and served chilled.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Cordial (drink)",
+  "photoQuery": "Sunquick orange drink",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr06": {
+  "key": "3f142b7f6d04",
+  "blurb": "A simple, sweet, and brightly colored iced syrup drink, perfect for cooling down.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "",
+  "photoQuery": "sirap ais",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr07": {
+  "key": "4b7b70a63c3d",
+  "blurb": "Iced black tea with a squeeze of fresh lime, offering a zesty and refreshing taste.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Tea",
+  "photoQuery": "teh o limau ais",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr08": {
+  "key": "feb1ffc08d7e",
+  "blurb": "A sweet, creamy iced milk tea that is a staple of Malaysian coffee shops.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Teh tarik",
+  "photoQuery": "teh ais",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr09": {
+  "key": "114761c81c64",
+  "blurb": "A fragrant, spiced tea brewed with aromatic Indian spices and milk.",
+  "spicy": 1,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Masala chai",
+  "photoQuery": "masala tea",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr10": {
+  "key": "4dccd8e36834",
+  "blurb": "A popular, rich, and creamy iced chocolate malt drink loved by locals.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Milo (drink)",
+  "photoQuery": "milo ais",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr11": {
+  "key": "018fae1f1544",
+  "blurb": "A comforting, warm chocolate malt drink that is sweet and nourishing.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Milo (drink)",
+  "photoQuery": "hot milo",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr12": {
+  "key": "ce5948624252",
+  "blurb": "A chilled, creamy malted milk drink that is sweet and smooth.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Horlicks",
+  "photoQuery": "horlicks ais",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr13": {
+  "key": "5f8047ef5029",
+  "blurb": "A warm, soothing malted milk drink perfect for a relaxing break.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Horlicks",
+  "photoQuery": "hot horlicks",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr14": {
+  "key": "a42ec16fae06",
+  "blurb": "A refreshing iced coffee made with instant coffee, usually sweetened with condensed milk.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Instant coffee",
+  "photoQuery": "nescafe ais",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr15": {
+  "key": "e2ea68cf295f",
+  "blurb": "A simple, warm cup of instant coffee, served with milk and sugar to your preference.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Instant coffee",
+  "photoQuery": "hot nescafe",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr16": {
+  "key": "01067f9d1787",
+  "blurb": "A zesty and cooling iced lime juice drink, perfect for hot weather.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Limeade",
+  "photoQuery": "limau ais",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "asian--dr17": {
+  "key": "95b3fb363e07",
+  "blurb": "A simple glass of plain water served with ice cubes.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "",
+  "photoQuery": "glass of ice water",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn01": {
+  "key": "ec9ceea7520f",
+  "blurb": "Kampung fried rice is a traditional village-style dish with a savory, slightly spicy kick.",
+  "spicy": 3,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Nasi goreng",
+  "photoQuery": "kampung fried rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn02": {
+  "key": "0adb5767bfb1",
+  "blurb": "A simple, comforting plate of stir-fried rice with basic seasonings.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "simple fried rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn03": {
+  "key": "d419c08ffb0b",
+  "blurb": "Sweet and savory fried rice tossed with fresh pineapple chunks.",
+  "spicy": 1,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Pineapple fried rice",
+  "photoQuery": "pineapple fried rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn04": {
+  "key": "9502ee23d17a",
+  "blurb": "Thai-style fried rice featuring aromatic herbs and a balanced savory flavor.",
+  "spicy": 2,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten",
+   "fish"
+  ],
+  "wikiTitle": "Thai fried rice",
+  "photoQuery": "Thai fried rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn05": {
+  "key": "c808a6cbd167",
+  "blurb": "USA fried rice is a local Malaysian fusion dish typically served with ketchup and sausages.",
+  "spicy": 1,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Nasi goreng",
+  "photoQuery": "USA fried rice Malaysia",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn06": {
+  "key": "4c9d43e2f5bd",
+  "blurb": "Classic Chinese-style fried rice stir-fried with soy sauce and aromatics.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "Chinese fried rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn07": {
+  "key": "3f02f2ee1aa9",
+  "blurb": "Savory fried rice cooked with tender pieces of beef.",
+  "spicy": 1,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "beef fried rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn08": {
+  "key": "ef18bd8b175f",
+  "blurb": "Cantonese-style mee hoon: thin rice vermicelli stir-fried in a savory egg-based gravy.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Rice vermicelli",
+  "photoQuery": "Cantonese style mee hoon",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn09": {
+  "key": "bac465781421",
+  "blurb": "Cantonese-style kuey teow: flat rice noodles in a silky, savory egg gravy.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Char kway teow",
+  "photoQuery": "Cantonese kuey teow",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn10": {
+  "key": "8d2d49a94d16",
+  "blurb": "Nasi goreng pataya is fried rice wrapped inside a thin, delicate egg omelette.",
+  "spicy": 2,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Nasi goreng",
+  "photoQuery": "nasi goreng pataya",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn11": {
+  "key": "1ea3c57f3948",
+  "blurb": "Fried rice stir-fried with savory, tender pieces of mutton or goat.",
+  "spicy": 2,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Nasi goreng",
+  "photoQuery": "nasi goreng kambing",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn12": {
+  "key": "90e8252df869",
+  "blurb": "Nasi goreng paprik is fried rice served with a spicy, aromatic chili-based chicken stir-fry.",
+  "spicy": 4,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Nasi goreng",
+  "photoQuery": "nasi goreng paprik",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn13": {
+  "key": "906cd4aa6f2f",
+  "blurb": "A classic Thai hot and sour soup infused with lemongrass, lime, and chicken.",
+  "spicy": 4,
+  "allergens": [
+   "fish"
+  ],
+  "wikiTitle": "Tom yum",
+  "photoQuery": "chicken tom yum soup",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn14": {
+  "key": "4b73cd11f4c5",
+  "blurb": "A zesty, spicy, and sour Thai soup packed with a variety of fresh seafood.",
+  "spicy": 4,
+  "allergens": [
+   "fish",
+   "shellfish"
+  ],
+  "wikiTitle": "Tom yum",
+  "photoQuery": "seafood tom yum soup",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn15": {
+  "key": "6b194e3a52d8",
+  "blurb": "Instant Maggi noodles served in a hot, comforting savory broth.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Instant noodle",
+  "photoQuery": "Maggi noodle soup",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn16": {
+  "key": "78e67e6edcef",
+  "blurb": "Stir-fried instant Maggi noodles tossed with savory seasonings and vegetables.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Instant noodle",
+  "photoQuery": "fried maggi noodles",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn17": {
+  "key": "14f8ef8d0b95",
+  "blurb": "Stir-fried instant noodles cooked with savory seasonings and tender chicken pieces.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy"
+  ],
+  "wikiTitle": "Instant noodle",
+  "photoQuery": "fried maggi chicken",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn18": {
+  "key": "32daba820016",
+  "blurb": "A light and healthy soup featuring a variety of fresh seasonal vegetables.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Vegetable soup",
+  "photoQuery": "clear vegetable soup",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn19": {
+  "key": "c408e872b14e",
+  "blurb": "Mee bandung is a noodle dish served in a rich, sweet, and spicy gravy made from shrimp paste.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "shellfish"
+  ],
+  "wikiTitle": "Mee bandung",
+  "photoQuery": "mee bandung",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn20": {
+  "key": "b22626042e3f",
+  "blurb": "Thin rice vermicelli stir-fried with soy sauce, egg, and bean sprouts.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Rice vermicelli",
+  "photoQuery": "fried mee hoon",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn21": {
+  "key": "80464cc40e04",
+  "blurb": "Stir-fried rice vermicelli cooked with savory seasonings and chicken.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Rice vermicelli",
+  "photoQuery": "fried mee hoon chicken",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn22": {
+  "key": "5627ee24f7ec",
+  "blurb": "Mee goreng is a popular stir-fried noodle dish with a savory and slightly spicy flavor.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Mee goreng",
+  "photoQuery": "mee goreng",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn23": {
+  "key": "d6b396b20428",
+  "blurb": "Stir-fried noodles cooked with savory seasonings and tender chicken pieces.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "egg"
+  ],
+  "wikiTitle": "Mee goreng",
+  "photoQuery": "mee goreng chicken",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn24": {
+  "key": "eca19a75847c",
+  "blurb": "Fried rice served with grilled meat skewers and a rich, nutty dipping sauce.",
+  "spicy": 2,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten",
+   "peanuts"
+  ],
+  "wikiTitle": "Satay",
+  "photoQuery": "fried rice with satay",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn25": {
+  "key": "b8c6049d5c93",
+  "blurb": "Crispy breaded chicken cutlet served with a side of steamed white rice.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Cutlet",
+  "photoQuery": "chicken cutlet rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn26": {
+  "key": "ce3d3e02a12b",
+  "blurb": "Crispy breaded chicken cutlet served alongside a portion of savory fried rice.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "soy"
+  ],
+  "wikiTitle": "Cutlet",
+  "photoQuery": "chicken cutlet fried rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn27": {
+  "key": "f901601f2cf4",
+  "blurb": "Noodles served in a fragrant, creamy, and spicy coconut milk-based curry broth.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Curry mee",
+  "photoQuery": "curry mee",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn28": {
+  "key": "9245ed7d6e00",
+  "blurb": "A whole BBQ chicken leg with a smoky flavor, served with fried rice.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Barbecue chicken",
+  "photoQuery": "BBQ chicken leg fried rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn29": {
+  "key": "c12394b231d5",
+  "blurb": "Chinese-style fried rice served with a crispy, battered dory fish fillet.",
+  "spicy": 0,
+  "allergens": [
+   "egg",
+   "soy",
+   "wheat/gluten",
+   "fish"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "fried rice dory fish",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--mn30": {
+  "key": "f768813e9b6e",
+  "blurb": "A simple, meat-free fried rice stir-fried with a variety of fresh vegetables.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "vegetable fried rice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb01": {
+  "key": "4e158971db20",
+  "blurb": "A classic dish featuring crispy deep-fried battered fish fillets served with golden french fries.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "fish"
+  ],
+  "wikiTitle": "Fish and chips",
+  "photoQuery": "fish and chips",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb02": {
+  "key": "d25e399694fe",
+  "blurb": "A tender, breaded or grilled chicken cutlet served with a savory sauce and side dishes.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Chicken chop",
+  "photoQuery": "chicken chop",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb03": {
+  "key": "b1cd2951bd98",
+  "blurb": "A juicy beef patty served in a soft bun with fresh vegetables and condiments.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "sesame"
+  ],
+  "wikiTitle": "Hamburger",
+  "photoQuery": "beef burger",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb04": {
+  "key": "c264acb3209d",
+  "blurb": "A crispy or grilled chicken patty served in a soft bun with fresh vegetables.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "sesame"
+  ],
+  "wikiTitle": "Chicken sandwich",
+  "photoQuery": "chicken burger",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb05": {
+  "key": "b50e5049a6f2",
+  "blurb": "A multi-layered sandwich typically filled with chicken, lettuce, tomato, and mayonnaise.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Club sandwich",
+  "photoQuery": "club sandwich",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb06": {
+  "key": "1adb57d8f77a",
+  "blurb": "A hearty sandwich served on crusty, airy Italian ciabatta bread with various savory fillings.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Ciabatta",
+  "photoQuery": "ciabatta sandwich",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb07": {
+  "key": "18778d299d99",
+  "blurb": "Crispy, bite-sized strips of breaded chicken breast, perfect for dipping.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Chicken fingers",
+  "photoQuery": "chicken fingers",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb08": {
+  "key": "dd5ce40d09fb",
+  "blurb": "Thick-cut potato wedges seasoned with herbs and fried until golden and crispy.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Potato wedges",
+  "photoQuery": "potato wedges",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb09": {
+  "key": "54475898a36a",
+  "blurb": "Classic, thin-cut potato strips fried until crispy and lightly salted.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "French fries",
+  "photoQuery": "french fries",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb10": {
+  "key": "d97f5c4b7f0e",
+  "blurb": "A fresh salad featuring crisp romaine lettuce, grilled chicken, croutons, and creamy dressing.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "fish"
+  ],
+  "wikiTitle": "Caesar salad",
+  "photoQuery": "chicken caesar salad",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb11": {
+  "key": "6d7374883343",
+  "blurb": "A refreshing mix of fresh garden vegetables served with your choice of dressing.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Salad",
+  "photoQuery": "mixed garden salad",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb12": {
+  "key": "d58c17bb621a",
+  "blurb": "Tender chicken pieces wrapped in a soft flour tortilla with fresh vegetables and sauce.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Wrap (food)",
+  "photoQuery": "chicken wrap",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--wb13": {
+  "key": "902bf862d6c0",
+  "blurb": "A vegetarian version of the club sandwich, layered with fresh vegetables and spreads.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Club sandwich",
+  "photoQuery": "vegetable club sandwich",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct01": {
+  "key": "c397b1f6c585",
+  "blurb": "Crispy, golden-brown fried chicken with a savory, crunchy batter.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Fried chicken",
+  "photoQuery": "fried chicken",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct02": {
+  "key": "9f489a375869",
+  "blurb": "Chicken pieces coated in a sweet and spicy Korean-style glaze.",
+  "spicy": 3,
+  "allergens": [
+   "wheat/gluten",
+   "soy",
+   "sesame"
+  ],
+  "wikiTitle": "Korean fried chicken",
+  "photoQuery": "korean fried chicken",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct03": {
+  "key": "c33741385579",
+  "blurb": "Tender chicken cooked in a savory, aromatic sauce with a distinct black pepper kick.",
+  "spicy": 1,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Black pepper chicken",
+  "photoQuery": "black pepper chicken",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct04": {
+  "key": "20a3a9eb76ae",
+  "blurb": "A hearty chicken dish inspired by goulash, featuring tender meat in a rich, seasoned sauce.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Goulash",
+  "photoQuery": "chicken goulash",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct05": {
+  "key": "6899d2495d5e",
+  "blurb": "A quick-serve portion of breaded chicken cutlet, perfect for a fast meal.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Chicken chop",
+  "photoQuery": "chicken chop",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct06": {
+  "key": "085d7ea14643",
+  "blurb": "A classic breaded chicken dish served with a savory sauce, often topped with ham or bacon.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Chicken Maryland",
+  "photoQuery": "chicken maryland",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct07": {
+  "key": "c3cfc30042a1",
+  "blurb": "Savory beef slices stir-fried with sweet, caramelized onions.",
+  "spicy": 0,
+  "allergens": [
+   "soy",
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Beef with onion",
+  "photoQuery": "beef onion stir fry",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct08": {
+  "key": "bb23ede6e90c",
+  "blurb": "A quick, flavorful serving of stir-fried rice with aromatics and seasonings.",
+  "spicy": 2,
+  "allergens": [
+   "soy",
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Fried rice",
+  "photoQuery": "nasi goreng",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct09": {
+  "key": "c3cc0afae67e",
+  "blurb": "A succulent, roasted or fried chicken leg seasoned for a savory taste.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Chicken leg",
+  "photoQuery": "roasted chicken leg",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct10": {
+  "key": "6b1c4db52c43",
+  "blurb": "A simple, crispy breaded fish fillet, fried until golden.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "fish"
+  ],
+  "wikiTitle": "Fried fish",
+  "photoQuery": "fried fish fillet",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct11": {
+  "key": "1e81c0fd4719",
+  "blurb": "Crispy, golden-fried potato sticks, a perfect side for any meal.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "French fries",
+  "photoQuery": "french fries",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct12": {
+  "key": "58b1d0973aed",
+  "blurb": "A thin, breaded meat cutlet fried until perfectly crispy.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Cutlet",
+  "photoQuery": "cotoletta",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct13": {
+  "key": "8072a5ed6516",
+  "blurb": "A comforting baked dish with a savory meat base topped with creamy mashed potatoes.",
+  "spicy": 0,
+  "allergens": [
+   "milk"
+  ],
+  "wikiTitle": "Shepherd's pie",
+  "photoQuery": "shepherds pie",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct14": {
+  "key": "1de67722d799",
+  "blurb": "Macaroni pasta coated in a rich, velvety cheese sauce and baked until bubbly.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "milk"
+  ],
+  "wikiTitle": "Macaroni and cheese",
+  "photoQuery": "mac and cheese",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct15": {
+  "key": "7d3f3f711826",
+  "blurb": "Penne pasta served with your choice of savory sauce and toppings.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Penne",
+  "photoQuery": "penne pasta",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct16": {
+  "key": "8bec8552aab3",
+  "blurb": "A simple, aromatic pasta dish tossed in olive oil, garlic, and chili flakes.",
+  "spicy": 1,
+  "allergens": [
+   "wheat/gluten"
+  ],
+  "wikiTitle": "Spaghetti aglio e olio",
+  "photoQuery": "aglio olio pasta",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct17": {
+  "key": "5dbc6b172778",
+  "blurb": "Creamy pasta tossed with a rich sauce made from eggs, cheese, and savory cured meat.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg",
+   "milk"
+  ],
+  "wikiTitle": "Carbonara",
+  "photoQuery": "carbonara pasta",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--ct18": {
+  "key": "51ad05e51d34",
+  "blurb": "Pasta topped with a savory, slow-cooked tomato sauce containing minced meat.",
+  "spicy": 0,
+  "allergens": [
+   "wheat/gluten",
+   "egg"
+  ],
+  "wikiTitle": "Spaghetti bolognese",
+  "photoQuery": "bolognese pasta",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--dr01": {
+  "key": "6d78a3895211",
+  "blurb": "Freshly squeezed orange juice that is sweet, tangy, and refreshing.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Orange juice",
+  "photoQuery": "fresh orange juice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--dr02": {
+  "key": "700adf3b9e5f",
+  "blurb": "A cooling and hydrating drink made from blended fresh watermelon.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Watermelon juice",
+  "photoQuery": "watermelon juice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--dr03": {
+  "key": "da5b17497560",
+  "blurb": "A crisp and sweet juice made from pressed fresh apples.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Apple juice",
+  "photoQuery": "fresh apple juice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--dr04": {
+  "key": "a4dbd15e5151",
+  "blurb": "A refreshing blended beverage combining two different types of fresh fruit juices.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Fruit juice",
+  "photoQuery": "mixed fruit juice",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "chinese--x_w01": {
+  "key": "e68c85a38cb3",
+  "blurb": "Standard bottled still mineral water for hydration.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Bottled water",
+  "photoQuery": "mineral water bottle",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "chinese--x_d01": {
+  "key": "43803c446eed",
+  "blurb": "A classic chilled carbonated cola soft drink.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Coca-Cola",
+  "photoQuery": "coca cola can",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "chinese--x_d02": {
+  "key": "4d9132460a38",
+  "blurb": "A refreshing and crisp lemon-lime flavored carbonated soda.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Sprite (drink)",
+  "photoQuery": "sprite can",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "chinese--x_d03": {
+  "key": "d27a6726a918",
+  "blurb": "A sweet and bubbly fruit-flavored carbonated soft drink.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Fanta",
+  "photoQuery": "fanta can",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "chinese--x_d04": {
+  "key": "e53d4f12dc94",
+  "blurb": "A clear, caffeine-free lemon-lime carbonated soft drink.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "7 Up",
+  "photoQuery": "7up can",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "chinese--x_d05": {
+  "key": "2a510373074a",
+  "blurb": "A chilled canned iced tea with a tangy lemon flavor.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Iced tea",
+  "photoQuery": "lemon iced tea can",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "chinese--x_d06": {
+  "key": "a75537668a48",
+  "blurb": "A chilled canned tea infused with fragrant jasmine flowers.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Jasmine tea",
+  "photoQuery": "jasmine tea can",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--x_w01": {
+  "key": "e68c85a38cb3",
+  "blurb": "Standard bottled still mineral water to keep you hydrated.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Bottled water",
+  "photoQuery": "mineral water bottle",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--x_d01": {
+  "key": "43803c446eed",
+  "blurb": "A classic chilled carbonated cola soft drink.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Coca-Cola",
+  "photoQuery": "coca cola can",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--x_d02": {
+  "key": "4d9132460a38",
+  "blurb": "A refreshing and crisp lemon-lime flavoured carbonated soda.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Sprite (drink)",
+  "photoQuery": "sprite can",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--x_d03": {
+  "key": "d27a6726a918",
+  "blurb": "A sweet and bubbly fruit-flavoured carbonated soft drink.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Fanta",
+  "photoQuery": "fanta orange can",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--x_d04": {
+  "key": "e53d4f12dc94",
+  "blurb": "A clear, caffeine-free lemon-lime carbonated soft drink.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "7 Up",
+  "photoQuery": "7up can",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--x_d05": {
+  "key": "2a510373074a",
+  "blurb": "A chilled canned iced tea infused with a zesty lemon flavour.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Iced tea",
+  "photoQuery": "fuze tea lemon",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "western--x_d06": {
+  "key": "a75537668a48",
+  "blurb": "A light and fragrant chilled jasmine green tea in a can.",
+  "spicy": 0,
+  "allergens": [],
+  "wikiTitle": "Jasmine tea",
+  "photoQuery": "fuze tea jasmine",
+  "estPrice": null,
+  "model": "gemini-3.1-flash-lite"
+ }
+}

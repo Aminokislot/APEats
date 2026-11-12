@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {mkdtempSync,rmSync} from 'node:fs';
+import {tmpdir} from 'node:os';
+import {join} from 'node:path';
+import {createVotes} from '../lib/votes.js';
+import {createFirestoreVotes} from '../lib/firestore-votes.js';
+test('votes survive immediate restart and edits do not double count',()=>{const dir=mkdtempSync(join(tmpdir(),'apeats-test-'));try{const options={path:join(dir,'votes.json'),stallIds:['a','b']};const v=createVotes(options);v.setFavorite('test-user','a');v.rate('test-user','a',3);const next=createVotes(options);assert.equal(next.summary().favoriteVotes,1);next.setFavorite('test-user','b');next.rate('test-user','a',5);assert.equal(next.summary().favorites.a,0);assert.deepEqual(next.summary().ratings.a,{avg:5,count:1});assert.throws(()=>next.rate('test-user','a',6));assert.throws(()=>next.setFavorite('test-user','x'));}finally{rmSync(dir,{recursive:true,force:true});}});
+test('Firestore changes one field without overwriting other ratings',async()=>{const calls=[];const v=createFirestoreVotes({projectId:'apeats-test',stallIds:['japanese-korean'],tokenProvider:async()=>'fake',fetcher:async(url,opt)=>{calls.push({url,opt});return {ok:true,json:async()=>({})};}});await v.rate('test-user','japanese-korean',4);assert.match(decodeURIComponent(calls[0].url),/updateMask.fieldPaths=ratings.`japanese-korean`/);assert.equal(calls[0].opt.method,'PATCH');await assert.rejects(v.rate('test-user','japanese-korean',6));});
+test('Firestore summary reads persisted votes and all pages',async()=>{let count=0;const v=createFirestoreVotes({projectId:'apeats-test',stallIds:['a'],tokenProvider:async()=>'fake',fetcher:async()=>({ok:true,json:async()=>++count===1?{documents:[{name:'x/test-user',fields:{favorite:{stringValue:'a'},ratings:{mapValue:{fields:{a:{integerValue:'5'}}}}}}],nextPageToken:'next'}:{documents:[]}})});const r=await v.summary('test-user');assert.equal(count,2);assert.equal(r.favoriteVotes,1);assert.equal(r.mine.favorite,'a');assert.deepEqual(r.ratings.a,{avg:5,count:1});});

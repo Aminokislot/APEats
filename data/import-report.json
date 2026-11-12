@@ -1,0 +1,184 @@
+{
+  "_note": "Written by tools/import-menu.js. Compares this import with the previous data/dishes.json.",
+  "importedAt": "2026-11-07T22:21:16.968Z",
+  "sourceCompiledOn": "2026-11-06",
+  "sources": [
+    {
+      "file": "menu_all_cuisines.json",
+      "sha256": "103331562a31df6a06bf5cd973cf2cbb4c06652317747a4cb4cbde4a45c49e47"
+    },
+    {
+      "file": "../extra-items.json",
+      "sha256": "da8c4838d959d81c5d333c14a3f9473d34fae8f1ce9e7e2f44a77e2237f7943e"
+    }
+  ],
+  "counts": {
+    "stalls": 7,
+    "items": 560,
+    "byRole": {
+      "main": 284,
+      "side": 110,
+      "drink": 105,
+      "dessert": 18,
+      "addon": 26,
+      "unknown": 17
+    },
+    "estimatedPrices": 36,
+    "noPrice": 0,
+    "unknownSpice": 0,
+    "unknownAllergens": 0,
+    "timeRestricted": 16,
+    "dayRestricted": 9
+  },
+  "changes": {
+    "added": [],
+    "changed": [],
+    "removed": []
+  },
+  "overrides": {
+    "applied": 75,
+    "missing": []
+  },
+  "disputed": [
+    {
+      "id": "japanese-korean--k2",
+      "name": "Tteokbokki",
+      "role": "unknown",
+      "basis": "Manual: Tteokbokki (rice cakes) can be a snack or a meal; portion is not stated."
+    },
+    {
+      "id": "japanese-korean--rd02",
+      "name": "Sweet and Spicy Fried Chicken",
+      "role": "unknown",
+      "basis": "Manual: Ready-made fried chicken; portion and rice are not stated."
+    },
+    {
+      "id": "japanese-korean--rd03",
+      "name": "Soy Garlic Fried Chicken",
+      "role": "unknown",
+      "basis": "Manual: Ready-made fried chicken; portion and rice are not stated."
+    },
+    {
+      "id": "chinese--k2",
+      "name": "Sweet & Spicy Chicken",
+      "role": "unknown",
+      "basis": "Manual: Korean section; rice or sides for this section are not described."
+    },
+    {
+      "id": "chinese--k3",
+      "name": "Korean Honey Chicken",
+      "role": "unknown",
+      "basis": "Manual: Korean section; rice or sides for this section are not described."
+    },
+    {
+      "id": "kopitiam--to13",
+      "name": "Breakfast Platter",
+      "role": "unknown",
+      "basis": "Manual: Breakfast plate (toast, egg, sausage, ham); not clearly a lunch."
+    },
+    {
+      "id": "shawarma--sa01",
+      "name": "Grilled Chicken Salad",
+      "role": "unknown",
+      "basis": "Manual: Chicken salad; portion is not stated."
+    },
+    {
+      "id": "shawarma--sa02",
+      "name": "Chicken Shawarma Salad",
+      "role": "unknown",
+      "basis": "Manual: Chicken salad; portion is not stated."
+    },
+    {
+      "id": "asian--se_m01",
+      "name": "Nasi Lemak",
+      "role": "main",
+      "basis": "Manual: Nasi lemak is a rice plate; sold at the ready-food counter. Portion size is not on the board."
+    },
+    {
+      "id": "asian--bk017",
+      "name": "Tandoori Ayam",
+      "role": "unknown",
+      "basis": "Manual: Tandoori chicken; the board does not say whether naan or rice comes with it."
+    },
+    {
+      "id": "asian--bk021",
+      "name": "Capati Roll Ayam",
+      "role": "main",
+      "basis": "Manual: Chapati rolled with chicken."
+    },
+    {
+      "id": "asian--bk022",
+      "name": "Capati Daging",
+      "role": "main",
+      "basis": "Manual: Chapati with beef (daging)."
+    },
+    {
+      "id": "asian--bk048",
+      "name": "Puri Masala Set",
+      "role": "main",
+      "basis": "Manual: Listed as a set: puri bread with potato curry."
+    },
+    {
+      "id": "western--mn13",
+      "name": "Chicken Tom Yam Soup",
+      "role": "unknown",
+      "basis": "Manual: Tom yam soup; the board does not say whether rice is included."
+    },
+    {
+      "id": "western--mn14",
+      "name": "Seafood Tom Yam Soup",
+      "role": "unknown",
+      "basis": "Manual: Tom yam soup; the board does not say whether rice is included."
+    },
+    {
+      "id": "western--wb07",
+      "name": "Chicken Finger",
+      "role": "unknown",
+      "basis": "Manual: Chicken strips; the board does not say whether fries or rice come with them."
+    },
+    {
+      "id": "western--wb10",
+      "name": "Chicken Ceaser Salad",
+      "role": "unknown",
+      "basis": "Manual: Chicken salad; portion is not stated."
+    },
+    {
+      "id": "western--ct05",
+      "name": "Chicken Chop",
+      "role": "unknown",
+      "basis": "Manual: Board does not say whether rice, fries or a sauce come with it."
+    },
+    {
+      "id": "western--ct06",
+      "name": "Chicken Maryland",
+      "role": "unknown",
+      "basis": "Manual: Board does not say whether rice, fries or a sauce come with it."
+    },
+    {
+      "id": "western--ct08",
+      "name": "Nasi Goreng",
+      "role": "main",
+      "basis": "Manual: A portion of fried rice. Two prices on the board, difference not explained; the higher one is used."
+    },
+    {
+      "id": "western--ct09",
+      "name": "Chicken Leg",
+      "role": "unknown",
+      "basis": "Manual: Board does not say whether rice, fries or a sauce come with it."
+    },
+    {
+      "id": "western--ct12",
+      "name": "Cotoletta",
+      "role": "unknown",
+      "basis": "Manual: Board does not say whether rice, fries or a sauce come with it; meat type not stated."
+    }
+  ],
+  "warnings": [],
+  "ai": {
+    "translatedNow": 0,
+    "enrichedNow": 0,
+    "cacheKeysMigrated": 0,
+    "usedAi": false
+  },
+  "backup": "backups/2026-11-07T22-21-16-977Z"
+}

@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-11-07T22:21:17.697Z",
+  "sourceGeneratedAt": "2026-11-07T22:21:16.968Z",
+  "sourceCompiledOn": "2026-11-06",
+  "visibleItems": 560,
+  "byRole": {
+    "main": 284,
+    "side": 110,
+    "drink": 105,
+    "dessert": 18,
+    "addon": 26,
+    "unknown": 17
+  },
+  "unconfirmedVegan": 560,
+  "estimatedPrices": 36,
+  "missingDiet": 212,
+  "added": [],
+  "changed": [],
+  "removed": [],
+  "sha256": "178822b4850677b7b917668d9e68c51d71090084e102c8357d5e05b150f9dfb9",
+  "enterpriseUploaded": false
+}
