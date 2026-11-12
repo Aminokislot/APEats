@@ -1,0 +1,18 @@
+# Render blueprint: one free Node web service. GEMINI_API_KEY is entered in the Render dashboard, never stored here.
+services:
+  - type: web
+    name: apeats
+    runtime: node
+    plan: free
+    buildCommand: npm ci --omit=dev
+    startCommand: node server.js
+    healthCheckPath: /api/status
+    envVars:
+      - key: AI_PROVIDER
+        value: gemini
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: VOTE_STORAGE
+        value: local
+      - key: TRUST_PROXY
+        value: "true"

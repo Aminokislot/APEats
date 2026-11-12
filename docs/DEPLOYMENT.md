@@ -31,6 +31,9 @@ Connect the repository, start command `node server.js` (or build the `Dockerfile
 kept in a file on the instance, so votes are lost when the instance restarts; the lunch finder, menu and Ask do not
 use it.
 
+The repository includes `render.yaml`, a blueprint for one free Render web service with these settings. The API key is
+entered in the Render dashboard when the blueprint is applied; it is never stored in the repository.
+
 ## Option 2: Google Cloud Run
 
 On Cloud Run the server refuses to start with local vote storage (`K_SERVICE` is set), so Firestore is required:
